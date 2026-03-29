@@ -11,7 +11,7 @@ def _():
     from sqlalchemy import create_engine, types
 
     # Cell 1: Inisialisasi Koneksi
-    engine = create_engine("postgresql://admin:password_rahasia@localhost:5432/tech_layoffs_dw")
+    engine = create_engine("postgresql://admin:admin123@localhost:5433/tech_layoffs_dw")
     return engine, pd, types
 
 
