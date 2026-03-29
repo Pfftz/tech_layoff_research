@@ -19,8 +19,8 @@ def _():
 def _(pd):
     # Cell 2: Load Data
     # Menggunakan data dari sample yang kamu berikan
-    df_layoffs = pd.read_csv("DWH\cleaned_tech_layoffs.csv")
-    df_coords = pd.read_csv("DWH\layoffs_location_with_coordinates.csv")
+    df_layoffs = pd.read_csv("Cleaned_tech_layoffs.csv")
+    df_coords = pd.read_csv("layoffs_location_with_coordinates.csv")
     return df_coords, df_layoffs
 
 

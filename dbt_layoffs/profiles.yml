@@ -1,0 +1,12 @@
+tech_layoffs_project:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: admin
+      password: password_rahasia
+      port: 5432
+      dbname: tech_layoffs_dw
+      schema: public # Data Bronze kamu ada di sini
+      threads: 4

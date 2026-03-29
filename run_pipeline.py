@@ -1,23 +1,30 @@
-import psycopg2
-DATABASE_URL = 'postgresql://admin:admin123@localhost:5433/tech_layoffs_dw'
-def run_pipeline():
-    conn = None
-    try:
-        conn = psycopg2.connect(DATABASE_URL)
-        conn.autocommit = True
-        cur = conn.cursor()
-        with open('pipeline.sql', 'r') as file:
-            sql_script = file.read()
-        cur.execute(sql_script)
-        print('Pipeline executed successfully: Bronze -> Silver -> Gold')
-        cur.execute('SELECT SUM("Laid_Off") FROM public.bronze_tech_layoffs;')
-        bronze_sum = cur.fetchone()[0]
-        cur.execute('SELECT SUM(total_laid_off) FROM gold.fact_layoffs;')
-        gold_sum = cur.fetchone()[0]
-        print(f'Validation: Bronze={bronze_sum}, Gold={gold_sum}')
-        if bronze_sum == gold_sum: print('=> VALIDATION PASSED')
-        else: print('=> VALIDATION FAILED')
-    except Exception as e: print(f'Error: {e}')
-    finally:
-        if conn: conn.close()
-if __name__ == '__main__': run_pipeline()
+
+import subprocess
+import os
+
+def run_command(command, cwd=None):
+    print(f"Running: {' '.join(command)}")
+    result = subprocess.run(command, cwd=cwd, text=True)
+    if result.returncode != 0:
+        print(f"Error executing {command[0]}")
+        exit(1)
+    print("Success.\\n")
+
+def main():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    dbt_dir = os.path.join(base_dir, "dbt_layoffs")
+
+    print(f"--- 1. Running Data Ingestion (Bronze Layer) ---")
+    run_command(["python", "PythonIngestion.py"], cwd=base_dir)
+
+    print(f"--- 2. Running DBT Pipeline (Staging, Silver, Gold Layers) ---")
+    run_command(["dbt", "run", "--profiles-dir", "."], cwd=dbt_dir)
+
+    print(f"--- 3. Running DBT Data Quality Tests ---")
+    run_command(["dbt", "test", "--profiles-dir", "."], cwd=dbt_dir)
+
+    print("Pipeline executed completely: Bronze -> Staging -> Silver -> Gold + Data Quality Checks Passed!")
+
+if __name__ == "__main__":
+    main()
+

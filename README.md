@@ -1,16 +1,39 @@
-# Tech Layoffs Research Data Warehouse (2020-2025)
+# Implementasi Arsitektur Medallion pada Data Warehouse untuk Analisis Spasial-Sektoral Dampak PHK pada Industri Teknologi Global (2020-2025)
 
-## 📌 Project Overview
-This project transforms a dataset of tech layoffs from a flat bronze layer into an optimized **Star Schema (Gold Layer)** in PostgreSQL. This allows for improved analytics, BI reporting, and querying regarding tech company layoffs across industries, stages, and locations.
+## 📌 Project Overview / Konsep Riset
+Penelitian ini bertujuan untuk membangun sebuah ekosistem *Data Warehouse* terintegrasi yang menyatukan data historis pemutusan hubungan kerja (PHK) global yang sebelumnya terfragmentasi. Melalui siklus ELT (*Extract, Load, Transform*), sistem ini mentransformasikan data mentah dan menyajikan *insight* yang interaktif. 
 
-## 🏗 Architecture
-The data pipeline implements a Medallion Architecture:
-* **Bronze Layer**: Raw data ingestion (`public.bronze_tech_layoffs`). Executed via Python/Marimo (`PythonIngestion.py`).
-* **Silver Layer**: Data cleansing and standardization (`silver.layoffs_standardized`). Normalizes industries and categorizes funding stages.
-* **Gold Layer**: Dimensional Modeling (Star Schema). Contains isolated dimensions and a central fact table.
+Fokus utama aplikasi ini adalah visualisasi makro-global yang dapat difilter hingga level mikro-regional. Hal ini memungkinkan pemantauan korelasi antara letak geografis perusahaan dan tingkat kerentanan berbagai sektor industri teknologi (seperti Fintech, Edtech) selama masa krisis 2020-2025.
+
+### ✨ Novelty (Kebaruan)
+Kebaruan penelitian ini terletak pada penerapan arsitektur Medallion untuk menangani data publik yang bersifat heterogen dan memiliki tingkat inkonsistensi yang tinggi:
+- **Silver Layer Automation:** Berfokus pada proses otomatisasi untuk normalisasi kategorisasi industri dan validasi data geolokasi secara spasial (menggunakan PostGIS).
+- **Gold Layer Integrity:** Menjamin integritas data pada *Star Schema*, memungkinkan analisis sektoral yang lebih presisi (berdasarkan tahap pendanaan dan ukuran perusahaan di berbagai wilayah dunia).
+
+### 🎯 Sasaran Pengguna & Tujuan
+- **Sasaran Pengguna:** Analis data, peneliti ekonomi digital, praktisi teknologi, dan pengambil kebijakan (*stakeholders*) di sektor ketenagakerjaan serta investasi.
+- **Tujuan:** Menyediakan landasan data yang akurat pada *BI Dashboard* (Looker Studio) untuk memfasilitasi pengambilan keputusan strategis dan memetakan dampak krisis teknologi.
+
+---
+
+## 🏗 Tech Stack & Architecture
+- **Data Ingestion:** Python (Pandas & SQLAlchemy) untku ekstraksi dataset Kaggle (`layoffs.fyi`).
+- **Data Warehouse:** PostgreSQL dengan ekstensi **PostGIS** untuk optimalisasi penyimpanan data spasial / koordinat.
+- **Transformation:** **dbt (data build tool)** dengan *Medallion Architecture* (Bronze, Silver, Gold).
+- **Visualization:** Looker Studio.
+
+### Medallion Architecture Workflow
+1. **Bronze Layer (`public.bronze_tech_layoffs`)**
+   - Raw data ingestion dilakukan melalui Python (`PythonIngestion.py`).
+2. **Staging Layer (`staging.stg_layoffs`)**
+   - View ringan untuk standardisasi penamaan kolom dan tipe data dasar.
+3. **Silver Layer (`silver.layoffs_standardized`)**
+   - Standardisasi dan pembersihan data. Normalisasi kategori industri dan pengklasifikasian *funding stage*.
+4. **Gold Layer (Star Schema)**
+   - Dimensional modeling dengan tabel fakta terpusat dan dimensi terisolasi.
 
 ## 📊 Entity-Relationship Diagram (Gold Layer)
-Below is the ERD for the Gold Layer Star Schema:
+Berikut adalah ERD untuk Star Schema pada Layer Gold:
 
 ```mermaid
 erDiagram
@@ -49,44 +72,39 @@ erDiagram
         INT quarter
         INT year
     }
-    
-    gold_fact_layoffs }o--|| gold_dim_company : "belongs to"
-    gold_fact_layoffs }o--|| gold_dim_industry : "is in"
-    gold_fact_layoffs }o--|| gold_dim_location : "located at"
-    gold_fact_layoffs }o--|| gold_dim_date : "occurred on"
+
+    gold_fact_layoffs }|--|| gold_dim_company : "belongs to"
+    gold_fact_layoffs }|--|| gold_dim_industry : "in industry"
+    gold_fact_layoffs }|--|| gold_dim_location : "located at"
+    gold_fact_layoffs }|--|| gold_dim_date : "occurred on"
 ```
 
-## 🛠 Data Transformations
-### 1. Data Audit & Silver Layer
-- **Schema Creation**: Segregates raw from refined data into `silver` and `gold`.
-- **Industry Normalization**: Fixes typos ('Transportion' -> 'Transportation') and groups financial branches into 'Fintech'.
-- **Funding Stage Grouping**: Evaluates the diverse `Stage` column and consolidates them into broader groups (`Early Stage`, `Growth Stage`, `Late Stage`, `Mature/Public`, or `Other`).
-- **Data Casting**: Dates handled and cast strictly via `::DATE`.
+## 🚀 How to Run (Setup Instructions)
 
-### 2. Dimensional Modeling (Gold Layer)
-Transformed `silver.layoffs_standardized` into dimension tables:
-1. `dim_company`: Maps company names and current stage groupings.
-2. `dim_industry`: Cleaned distinct industry categories.
-3. `dim_location`: Denormalized geography grouping city, country, continent, and geospatial coordinates.
-4. `dim_date`: Extracted day, month, quarter, year metrics mapped against full layoff dates.
-5. `fact_layoffs`: The center mapping IDs to qualitative metrics (`total_laid_off`, `percentage`, `funds_raised`).
+### 1. Prerequisites
+- Docker & Docker Compose
+- Python 3.9+
+- dbt-core & dbt-postgres
 
-### 3. Data Validation
-- `NULL` layoff counts are treated as `0` during aggregation to prevent SQL aggregation drops while maintaining logical consistency.
-- Successfully achieved parity checksum between Bronze layout (`SUM(Laid_Off)`) and Fact layout (`SUM(total_laid_off)` => **581,705** matching records confirmed).
+### 2. Environment Setup
+Install the necessary Python dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-## 🚀 Execution Instructions
-1. Ensure the PostgreSQL backend is live using Docker:
-   ```bash
-   docker-compose up -d
-   ```
-2. Ingest raw data:
-   Run `PythonIngestion.py` notebook.
-3. Execute pipeline transforms:
-   ```bash
-   Get-Content pipeline.sql | docker exec -i postgres_layoffs psql -U admin -d tech_layoffs_dw
-   ```
-4. Verify checksums:
-   ```bash
-   docker exec -i postgres_layoffs psql -U admin -d tech_layoffs_dw -c "SELECT sum(""Laid_Off"") FROM public.bronze_tech_layoffs; SELECT sum(total_laid_off) FROM gold.fact_layoffs;"
-   ```
+### 3. Spin up the Data Warehouse
+Start the PostGIS enabled PostgreSQL container:
+```bash
+docker-compose up -d
+```
+
+### 4. Run the Pipeline
+Eksekusi keseluruhan proses pipeline (Ingestion -> dbt run -> dbt test):
+```bash
+python run_pipeline.py
+```
+Atau jalankan tools individual:
+- **Ingestion:** `python PythonIngestion.py`
+- **Transformation:** `cd dbt_layoffs && dbt run`
+- **Data Quality Check:** `cd dbt_layoffs && dbt test`
+

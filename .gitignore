@@ -35,10 +35,6 @@ __marimo__/
 .env.*
 !.env.example
 
-# Local dbt/profile-style configs (keep example templates in git)
-profiles.yml
-profiles.*.yml
-!profiles.example.yml
 
 # Logs and temporary files
 *.log
