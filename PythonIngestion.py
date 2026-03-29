@@ -11,7 +11,7 @@ def _():
     from sqlalchemy import create_engine, types
 
     # Cell 1: Inisialisasi Koneksi
-    engine = create_engine("postgresql://admin:password_rahasia@localhost:5432/tech_layoffs_dw")
+    engine = create_engine("postgresql://admin:admin123@localhost:5433/tech_layoffs_dw")
     return engine, pd, types
 
 
@@ -19,8 +19,8 @@ def _():
 def _(pd):
     # Cell 2: Load Data
     # Menggunakan data dari sample yang kamu berikan
-    df_layoffs = pd.read_csv("DWH\cleaned_tech_layoffs.csv")
-    df_coords = pd.read_csv("DWH\layoffs_location_with_coordinates.csv")
+    df_layoffs = pd.read_csv("Cleaned_tech_layoffs.csv")
+    df_coords = pd.read_csv("layoffs_location_with_coordinates.csv")
     return df_coords, df_layoffs
 
 

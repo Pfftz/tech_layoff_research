@@ -1,0 +1,81 @@
+version: 2
+
+models:
+  - name: fact_layoffs
+    description: "Tabel fakta sentral menyimpan metric PHK (layoffs)"
+    columns:
+      - name: fact_id
+        description: "Primary key untuk fact table"
+        tests:
+          - unique
+          - not_null
+      - name: company_id
+        description: "Foreign key relasi ke dim_company"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_company')
+              field: company_id
+      - name: industry_id
+        description: "Foreign key relasi ke dim_industry"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_industry')
+              field: industry_id
+      - name: location_id
+        tests:
+          - relationships:
+              to: ref('dim_location')
+              field: location_id
+      - name: date_id
+        tests:
+          - relationships:
+              to: ref('dim_date')
+              field: date_id
+
+  - name: dim_company
+    description: "Tabel dimensi menyimpan informasi perusahaan"
+    columns:
+      - name: company_id
+        tests:
+          - unique
+          - not_null
+      - name: company_name
+        tests:
+          - not_null
+
+  - name: dim_industry
+    description: "Tabel dimensi untuk jenis industri teknologi"
+    columns:
+      - name: industry_id
+        tests:
+          - unique
+          - not_null
+      - name: industry_name
+        tests:
+          - not_null
+          
+  - name: dim_location
+    description: "Tabel dimensi menyimpan data geospasial dan lokasi"
+    columns:
+      - name: location_id
+        tests:
+          - unique
+          - not_null
+      - name: latitude
+        description: "Garis Lintang (-90 to 90)"
+      - name: longitude
+        description: "Garis Bujur (-180 to 180)"
+
+  - name: dim_date
+    description: "Tabel dimensi waktu"
+    columns:
+      - name: date_id
+        tests:
+          - unique
+          - not_null
+      - name: full_date
+        tests:
+          - not_null
+
