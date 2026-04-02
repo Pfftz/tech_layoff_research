@@ -8,7 +8,7 @@ if sys.platform == 'win32':
     import io
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-DB_URL = "postgresql+psycopg://admin:admin123@127.0.0.1:5432/tech_layoffs_dw?sslmode=disable"
+DB_URL = "postgresql+psycopg2://admin:admin123@127.0.0.1:5433/tech_layoffs_dw?sslmode=disable"
 
 def prepare_bronze_layer(df_main, df_lookup):
     df = df_main.copy()

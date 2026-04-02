@@ -6,7 +6,7 @@ tech_layoffs_project:
       host: localhost
       user: admin
       password: admin123
-      port: 5432
+      port: 5433
       dbname: tech_layoffs_dw
       schema: public
       threads: 4

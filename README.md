@@ -32,7 +32,7 @@ Sistem Data Warehouse terintegrasi untuk analisis historis dampak PHK industri t
 ├── run_pipeline.py                 # Main pipeline orchestrator
 ├── dbt_layoffs/                    # dbt project root
 │   ├── dbt_project.yml             # dbt config (schemas, materialization)
-│   ├── profiles.yml                # Database connection (5432)
+│   ├── profiles.yml                # Database connection (5433)
 │   └── models/
 │       ├── staging/
 │       │   ├── sources.yml         # Source mapping (bronze_tech_layoffs)
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ```bash
 docker-compose up -d
 # Wait 10-15 seconds for initialization
-docker ps  # Verify postgres_layoffs listening on 5432
+docker ps  # Verify postgres_layoffs listening on 5433
 ```
 
 **5. Run complete pipeline:**
@@ -158,7 +158,7 @@ Aggregates by:
 
 Contoh query:
 ```sql
-SELECT * FROM gold.v_komparasi_indo_global
+SELECT * FROM public_gold.v_komparasi_indo_global
 WHERE year = 2023 
   AND region_scope = 'Indonesia' 
   AND industry = 'Fintech'
@@ -171,16 +171,16 @@ ORDER BY quarter;
 
 ### Connection Details
 - **Host:** localhost
-- **Port:** 5432
+- **Port:** 5433
 - **Database:** tech_layoffs_dw
 - **User:** admin
 - **Password:** admin123
 
 ### Schema Layout
 - **public:** Sources + Bronze tables
-- **staging:** Staging views
-- **silver:** Standardized tables
-- **gold:** Dimensional tables + analytical views
+- **public_staging:** Staging views
+- **public_silver:** Standardized tables
+- **public_gold:** Dimensional tables + analytical views
 
 ---
 
@@ -194,17 +194,17 @@ docker exec postgres_layoffs psql -U admin -d tech_layoffs_dw -c "
 SELECT 
   'bronze_tech_layoffs' as table_name, count(*) FROM public.bronze_tech_layoffs
 UNION ALL
-SELECT 'dim_company', count(*) FROM gold.dim_company
+SELECT 'dim_company', count(*) FROM public_gold.dim_company
 UNION ALL
-SELECT 'dim_industry', count(*) FROM gold.dim_industry
+SELECT 'dim_industry', count(*) FROM public_gold.dim_industry
 UNION ALL
-SELECT 'dim_location', count(*) FROM gold.dim_location
+SELECT 'dim_location', count(*) FROM public_gold.dim_location
 UNION ALL
-SELECT 'dim_date', count(*) FROM gold.dim_date
+SELECT 'dim_date', count(*) FROM public_gold.dim_date
 UNION ALL
-SELECT 'fact_layoffs', count(*) FROM gold.fact_layoffs
+SELECT 'fact_layoffs', count(*) FROM public_gold.fact_layoffs
 UNION ALL
-SELECT 'v_komparasi_indo_global', count(*) FROM gold.v_komparasi_indo_global;
+SELECT 'v_komparasi_indo_global', count(*) FROM public_gold.v_komparasi_indo_global;
 "
 ```
 
@@ -227,7 +227,7 @@ SELECT 'v_komparasi_indo_global', count(*) FROM gold.v_komparasi_indo_global;
 
 ### Error: "Password authentication failed"
 **Solution:** 
-- Verify `profiles.yml` port matches docker-compose: `5432`
+- Verify `profiles.yml` port matches docker-compose: `5433`
 - Verify connection string in `PythonIngestion.py`
 - Run: `docker-compose down -v && docker-compose up -d` to reset
 
@@ -235,8 +235,8 @@ SELECT 'v_komparasi_indo_global', count(*) FROM gold.v_komparasi_indo_global;
 **Solution:** Clean database before re-running:
 ```bash
 docker exec postgres_layoffs psql -U admin -d tech_layoffs_dw -c \
-  "DROP SCHEMA IF EXISTS public, staging, silver, gold CASCADE; \
-   CREATE SCHEMA public; CREATE SCHEMA staging; CREATE SCHEMA silver; CREATE SCHEMA gold;"
+  "DROP SCHEMA IF EXISTS public_staging, public_silver, public_gold CASCADE; \
+   DROP TABLE IF EXISTS public.bronze_tech_layoffs;"
 ```
 
 ### dbt models not building
@@ -257,10 +257,10 @@ SELECT
   f.total_laid_off,
   i.industry_name,
   d.year
-FROM gold.fact_layoffs f
-JOIN gold.dim_company c ON f.company_id = c.company_id
-JOIN gold.dim_industry i ON f.industry_id = i.industry_id
-JOIN gold.dim_date d ON f.date_id = d.date_id
+FROM public_gold.fact_layoffs f
+JOIN public_gold.dim_company c ON f.company_id = c.company_id
+JOIN public_gold.dim_industry i ON f.industry_id = i.industry_id
+JOIN public_gold.dim_date d ON f.date_id = d.date_id
 ORDER BY f.total_laid_off DESC NULLS LAST
 LIMIT 10;
 ```
@@ -272,11 +272,22 @@ SELECT
   region_scope,
   SUM(total_companies_impacted) as companies,
   SUM(total_layoffs) as layoffs
-FROM gold.v_komparasi_indo_global
+FROM public_gold.v_komparasi_indo_global
 WHERE year = 2023
 GROUP BY industry, region_scope
 ORDER BY layoffs DESC NULLS LAST;
 ```
+
+### Export CSV for Looker Studio
+Setelah pipeline selesai, kamu bisa export dataset final ke CSV dengan script ini:
+
+```bash
+python export_buat_temen.py
+```
+
+Output file:
+- `data_komparasi_looker.csv`
+- `data_peta_looker.csv`
 
 ---
 
@@ -327,7 +338,7 @@ Proprietary - Tech Layoffs Analysis Project
 
 ## 📞 Support
 - **dbt Docs:** Run `dbt docs generate && dbt docs serve` for auto-generated documentation
-- **PostgreSQL Client:** `psql -h localhost -p 5432 -U admin -d tech_layoffs_dw`
+- **PostgreSQL Client:** `psql -h localhost -p 5433 -U admin -d tech_layoffs_dw`
 - **Container Logs:** `docker logs postgres_layoffs -f`
         INT company_id PK
         VARCHAR company_name

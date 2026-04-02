@@ -1,0 +1,1746 @@
+total_laid_off,company_name,stage_group,industry_name,city,country,latitude,longitude,year,quarter
+180.0,Teads,Unknown,Advertising Services,New York City,USA,40.7127281,-74.0060152,2025.0,4.0
+451.0,OneWeb,Unknown,Aerospace,London,UK,51.4893335,-0.144055085,2020.0,1.0
+1000.0,Lilium,Mature/Public,Aerospace,Munich,Germany,48.1371079,11.5753822,2024.0,4.0
+34.0,Satellogic,Mature/Public,Aerospace,Montevideo,Uruquay,-34.901112,-56.164532,2024.0,2.0
+180.0,Planet,Mature/Public,Aerospace,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+117.0,Planet,Mature/Public,Aerospace,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+40.0,Astra,Unknown,Aerospace,Alameda,USA,37.6090291,-121.899142,2020.0,2.0
+30.0,True Anomaly,Growth Stage,Aerospace,Denver,USA,39.7392364,-104.984862,2024.0,2.0
+100.0,Kitty Hawk,Unknown,Aerospace,Palo Alto,USA,37.4443293,-122.1598465,2022.0,3.0
+75.0,Sarcos,Mature/Public,Aerospace,Salt Lake City,USA,40.7596198,-111.886797,2023.0,3.0
+70.0,Satellogic,Mature/Public,Aerospace,Montevideo,Uruquay,-34.901112,-56.164532,2024.0,2.0
+1000.0,Blue Origin,Unknown,Aerospace,Seattle,USA,47.6038321,-122.330062,2025.0,1.0
+150.0,Dataminr,Late Stage,AI,New York City,USA,40.7127281,-74.0060152,2023.0,4.0
+22.0,D-ID,Growth Stage,AI,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,1.0
+10.0,Noogata,Early Stage,AI,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,2.0
+15.0,Tabnine,Growth Stage,AI,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,1.0
+12.0,Tome,Growth Stage,AI,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+40.0,Logically,Early Stage,AI,Manchester,United Kingdom,53.4794892,-2.2451148,2025.0,1.0
+20.0,Cohere,Growth Stage,AI,Toronto,Canada,43.6534817,-79.3839347,2024.0,3.0
+20.0,Stability AI,Unknown,AI,London,UK,51.4893335,-0.144055085,2024.0,2.0
+10.0,Hugging Face,Growth Stage,AI,New York City,USA,40.7127281,-74.0060152,2025.0,1.0
+6.0,Character.ai,Early Stage,AI,Menlo Park,USA,37.4519671,-122.177992,2024.0,3.0
+77.0,SambaNova,Growth Stage,AI,Palo Alto,USA,37.4443293,-122.1598465,2025.0,2.0
+20.0,Deepgram,Growth Stage,AI,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+75.0,Tenstorrent,Unknown,AI chip startup,Toronto,Canada,43.6534817,-79.3839347,2025.0,4.0
+5000.0,Toshiba,Mature/Public,Appliances,Tokyo,Japan,35.6821936,139.762221,2024.0,2.0
+200.0,Mobileye,Unknown,Autonomous-driving vehicles,Jerusalem,Israel,31.78847185,35.21879441,2025.0,4.0
+50.0,Syqe Medical,Unknown,Biotechnology Research,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,3.0
+360.0,McKinsey & Co,Unknown,Business Consulting and Services,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+800.0,Playtika,Unknown,Computer Games,Herzliya,Israel,32.17527727,34.8295478,2025.0,4.0
+25.0,Ludeo,Unknown,Computer Games,El Segundo,USA,33.91462502,-118.4071838,2025.0,4.0
+180.0,Procore,Unknown,Construction,Los Angeles,USA,34.0536909,-118.242766,2020.0,3.0
+210.0,RenoRun,Growth Stage,Construction,Montreal,Canada,45.5031824,-73.5698065,2022.0,4.0
+140.0,Yojak,Early Stage,Construction,Gurugram,India,28.4646148,77.0299194,2022.0,2.0
+240.0,Katerra,Growth Stage,Construction,Menlo Park,USA,37.4519671,-122.177992,2020.0,2.0
+13.0,Bridgit,Growth Stage,Construction,Waterloo,Canada,43.4652699,-80.5222961,2022.0,4.0
+16.0,Rhumbix,Growth Stage,Construction,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+2434.0,Katerra,Unknown,Construction,Menlo Park,USA,37.4519671,-122.177992,2021.0,2.0
+400.0,Katerra,Late Stage,Construction,Menlo Park,USA,37.4519671,-122.177992,2020.0,2.0
+70.0,RenoRun,Growth Stage,Construction,Montreal,Canada,45.5031824,-73.5698065,2022.0,3.0
+60.0,Parler,Growth Stage,Consumer,Nashville,USA,36.1622767,-86.7742984,2023.0,1.0
+780.0,Electronic Arts,Mature/Public,Consumer,Redwood City,USA,37.4863239,-122.232523,2023.0,1.0
+670.0,Electronic Arts,Mature/Public,Consumer,Redwood City,USA,37.4863239,-122.232523,2024.0,1.0
+500.0,Snap,Mature/Public,Consumer,Los Angeles,USA,34.0536909,-118.242766,2024.0,1.0
+870.0,Epic Gaming,Unknown,Consumer,Raleigh,USA,35.7803977,-78.6390989,2023.0,3.0
+95.0,Houzz,Late Stage,Consumer,Palo Alto,USA,37.4443293,-122.1598465,2022.0,4.0
+155.0,Houzz,Late Stage,Consumer,Palo Alto,USA,37.4443293,-122.1598465,2020.0,2.0
+30.0,Gather,Growth Stage,Consumer,Palo Alto,USA,37.4443293,-122.1598465,2022.0,2.0
+140.0,iRobot,Mature/Public,Consumer,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+105.0,iRobot,Mature/Public,Consumer,Boston,USA,42.3554334,-71.060511,2024.0,4.0
+65.0,Playdots,Mature/Public,Consumer,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+350.0,iRobot,Mature/Public,Consumer,Boston,USA,42.3554334,-71.060511,2024.0,1.0
+85.0,iRobot,Mature/Public,Consumer,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+140.0,DraftKings,Mature/Public,Consumer,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+45.0,VSCO,Growth Stage,Consumer,Oakland,USA,37.8044557,-122.271356,2020.0,2.0
+350.0,Bumble,Mature/Public,Consumer,Austin,USA,30.2711286,-97.7436995,2024.0,1.0
+325.0,Match Group,Mature/Public,Consumer,New York City,USA,40.7127281,-74.0060152,2025.0,2.0
+100.0,FanClash,Growth Stage,Consumer,Gurugram,India,28.4646148,77.0299194,2023.0,1.0
+60.0,Linktree,Unknown,Consumer,Melbourne,Australia,-37.8142454,144.9631732,2023.0,2.0
+50.0,Linktree,Unknown,Consumer,Melbourne,Australia,-37.8142454,144.9631732,2022.0,3.0
+10000.0,Meta,Mature/Public,Consumer,Menlo Park,USA,37.4519671,-122.177992,2023.0,1.0
+240.0,Bumble,Mature/Public,Consumer,Austin,USA,30.2711286,-97.7436995,2025.0,2.0
+250.0,HOOQ,Unknown,Consumer,Singapore,Singapore,1.2899175,103.8519072,2020.0,1.0
+180.0,Xiaohongshu,Late Stage,Consumer,Shanghai,China,31.2312707,121.4700152,2022.0,2.0
+220.0,Bungie,Mature/Public,Consumer,Seattle,USA,47.6038321,-122.330062,2024.0,3.0
+11000.0,Meta,Mature/Public,Consumer,Menlo Park,USA,37.4519671,-122.177992,2022.0,4.0
+194.0,Rover,Late Stage,Consumer,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+200.0,ShareChat,Late Stage,Consumer,Bengaluru,India,12.98815675,77.62260004,2023.0,4.0
+87.0,Cameo,Unknown,Consumer,Chicago,USA,41.8755616,-87.6244212,2022.0,2.0
+6.0,Jiobit,Unknown,Consumer,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+3600.0,Meta,Mature/Public,Consumer,Menlo Park,USA,37.4519671,-122.177992,2025.0,1.0
+300.0,Wildlife Studios,Unknown,Consumer,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+11.0,GetNinjas,Growth Stage,Consumer,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+90.0,Picsart,Growth Stage,Consumer,Miami,USA,25.7741728,-80.19362,2022.0,2.0
+1000.0,Magic Leap,Late Stage,Consumer,Miami,USA,25.7741728,-80.19362,2020.0,2.0
+78.0,Koo,Growth Stage,Consumer,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+200.0,Sonos,Mature/Public,Consumer,Santa Barbara,USA,34.4221319,-119.702667,2025.0,1.0
+100.0,Sonos,Mature/Public,Consumer,Santa Barbara,USA,34.4221319,-119.702667,2024.0,3.0
+900.0,Sony Interactive,Mature/Public,Consumer,San Mateo,USA,37.496904,-122.3330573,2024.0,1.0
+139.0,GoPro,Mature/Public,Consumer,San Mateo,USA,37.496904,-122.3330573,2024.0,3.0
+200.0,GoPro,Mature/Public,Consumer,San Mateo,USA,37.496904,-122.3330573,2020.0,2.0
+530.0,Riot Gaming,Mature/Public,Consumer,Los Angeles,USA,34.0536909,-118.242766,2024.0,1.0
+1600.0,Yahoo,Mature/Public,Consumer,Sunnyvale,USA,37.3688301,-122.036349,2023.0,1.0
+100.0,Eventbrite,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,3.0
+170.0,Discord,Late Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+37.0,Discord,Late Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+12000.0,Google,Mature/Public,Consumer,Mountain View,USA,37.3893889,-122.0832101,2023.0,1.0
+270.0,BookMyShow,Unknown,Consumer,Mumbai,India,19.0785451,72.878176,2020.0,2.0
+40.0,Loco,Mature/Public,Consumer,Mumbai,India,19.0785451,72.878176,2023.0,4.0
+23.0,Superhuman,Growth Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+7.0,Smashing,Early Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2025.0,2.0
+70.0,Skillz,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+80.0,Eventbrite,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+500.0,Eventbrite,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+80.0,Storytel,Mature/Public,Consumer,Stockholm,Sweden,59.3251172,18.0710935,2024.0,1.0
+60.0,Tilting Point,Unknown,Consumer,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+100.0,Mobile Premier League,Late Stage,Consumer,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+150.0,SeatGeek,Late Stage,Consumer,New York City,USA,40.7127281,-74.0060152,2025.0,1.0
+174.0,Sonos,Mature/Public,Consumer,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+130.0,Sonos,Mature/Public,Consumer,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+30.0,Airtime,Growth Stage,Consumer,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+1000.0,Yelp,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+85.0,Niantic,Growth Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+85.0,Jam City,Unknown,Consumer,Los Angeles,USA,34.0536909,-118.242766,2024.0,3.0
+500.0,Eaze,Growth Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+25.0,Airtime,Growth Stage,Consumer,New York City,USA,40.7127281,-74.0060152,2025.0,2.0
+500.0,ShareChat,Late Stage,Consumer,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+25.0,IRL,Growth Stage,Consumer,Berkeley,USA,37.8708393,-122.272863,2022.0,2.0
+80.0,Glossier,Late Stage,Consumer,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+80.0,Sandbox VR,Early Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+250.0,Mozilla,Unknown,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,3.0
+60.0,Mozilla,Unknown,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+250.0,Thumbtack,Late Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+160.0,Thumbtack,Late Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+90.0,Reddit,Late Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+96.0,Arkane Studios,Unknown,Consumer,Austin,USA,30.2711286,-97.7436995,2024.0,2.0
+50.0,Iflix,Unknown,Consumer,Kuala Lumpur,Malaysia,3.1516964,101.6942371,2020.0,2.0
+500.0,Twitch,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+200.0,Twitter,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+200.0,Jam City,Unknown,Consumer,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+3700.0,Twitter,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+1280.0,Snap,Mature/Public,Consumer,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+80.0,Lightricks,Growth Stage,Consumer,Jerusalem,Israel,31.78847185,35.21879441,2022.0,3.0
+27.0,Brave,Growth Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2024.0,3.0
+400.0,Juul,Unknown,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+900.0,Juul,Unknown,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+35.0,Kabam,Mature/Public,Consumer,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+300.0,Playtika,Mature/Public,Consumer,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,1.0
+6.0,Panda Squad,Early Stage,Consumer,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+70.0,Lightricks,Growth Stage,Consumer,Jerusalem,Israel,31.78847185,35.21879441,2024.0,3.0
+22.0,Sorare,Growth Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+1100.0,Kraken,Unknown,Crypto,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+150.0,Chainalysis,Late Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2023.0,4.0
+17.0,Community Gaming,Early Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+90.0,2TM,Unknown,Crypto,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+250.0,BlockFi,Late Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+100.0,2TM,Unknown,Crypto,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+47.0,ConsenSys,Unknown,Crypto,New York City,USA,40.7127281,-74.0060152,2025.0,3.0
+100.0,Gemini,Unknown,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+80.0,Bitso,Growth Stage,Crypto,Mexico City,Mexico,19.4326296,-99.1331785,2022.0,2.0
+30.0,Coinsquare,Unknown,Crypto,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+150.0,Blockchain.com,Growth Stage,Crypto,London,UK,51.4893335,-0.144055085,2022.0,3.0
+60.0,Polygon,Unknown,Crypto,Cayman Islands,Cayman Islands,19.70318225,-79.91746272,2024.0,1.0
+68.0,Gemini,Unknown,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+21.0,Shakepay,Early Stage,Crypto,Montreal,Canada,45.5031824,-73.5698065,2023.0,1.0
+134.0,Dapper Labs,Growth Stage,Crypto,Vancouver,Canada,49.2608724,-123.113952,2022.0,4.0
+275.0,Huobi,Unknown,Crypto,Beijing,China,39.916668,116.383331,2023.0,1.0
+100.0,Lemon,Early Stage,Crypto,Buenos Aires,Argentina,-34.6037181,-58.38153,2022.0,4.0
+33.0,Candy Digital,Early Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+20.0,Ocavu,Early Stage,Crypto,Lehi,USA,40.3881114,-111.8486019,2022.0,4.0
+10.0,CoinJar,Unknown,Crypto,Melbourne,Australia,-37.8142454,144.9631732,2022.0,4.0
+50.0,Circle,Mature/Public,Crypto,Boston,USA,42.3554334,-71.060511,2024.0,4.0
+150.0,Celsius,Growth Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+80.0,TaxBit,Unknown,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+30.0,Autograph,Growth Stage,Crypto,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+300.0,Huobi,Unknown,Crypto,Beijing,China,39.916668,116.383331,2022.0,2.0
+80.0,Buenbit,Early Stage,Crypto,Buenos Aires,Argentina,-34.6037181,-58.38153,2022.0,2.0
+270.0,Bitpanda,Growth Stage,Crypto,Vienna,Austria,48.2083537,16.3725042,2022.0,2.0
+2000.0,Crypto.com,Unknown,Crypto,Singapore,Singapore,1.2899175,103.8519072,2022.0,4.0
+110.0,Blockchain.com,Growth Stage,Crypto,London,UK,51.4893335,-0.144055085,2023.0,1.0
+900.0,Bitwise,Growth Stage,Crypto,Fresno,USA,36.7394421,-119.78483,2023.0,2.0
+29.0,Matrixport,Growth Stage,Crypto,Singapore,Singapore,1.2899175,103.8519072,2023.0,1.0
+950.0,Coinbase,Mature/Public,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+100.0,Polygon,Unknown,Crypto,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+163.0,ConsenSys,Growth Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2024.0,4.0
+12.0,Abra,Growth Stage,Crypto,Mountain View,USA,37.3893889,-122.0832101,2022.0,2.0
+20.0,Immutable,Growth Stage,Crypto,Sydney,Australia,-33.8698439,151.2082848,2022.0,3.0
+1100.0,Coinbase,Mature/Public,Crypto,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+100.0,ConsenSys,Growth Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+24.0,TIFIN,Growth Stage,Crypto,Boulder,USA,40.0149856,-105.270545,2022.0,2.0
+90.0,Figure,Unknown,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+260.0,Crypto.com,Unknown,Crypto,Singapore,Singapore,1.2899175,103.8519072,2022.0,2.0
+9.0,BitOasis,Growth Stage,Crypto,Dubai,United Arabian Emirates,25.276987,55.296249,2022.0,2.0
+44.0,Chainalysis,Late Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+30.0,MoonPay,Unknown,Crypto,Dover,USA,39.158168,-75.5243682,2024.0,2.0
+330.0,Luno,Mature/Public,Crypto,London,UK,51.4893335,-0.144055085,2023.0,1.0
+74.0,Foundry,Mature/Public,Crypto,Boston,USA,42.3554334,-71.060511,2024.0,4.0
+26.0,Chia Network,Growth Stage,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+70.0,Banxa,Mature/Public,Crypto,Melbourne,Australia,-37.8142454,144.9631732,2022.0,2.0
+400.0,Kraken,Unknown,Crypto,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+91.0,ConsenSys,Unknown,Crypto,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+75.0,Anchorage Digital,Growth Stage,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+30.0,Bullish,Unknown,Crypto,Hong Kong,Hong Kong,22.2793278,114.1628131,2022.0,3.0
+59.0,Exodus,Unknown,Crypto,Nebraska City,USA,40.676526,-95.858694,2022.0,4.0
+30.0,Fireblocks,Late Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+20.0,Fireblocks,Late Stage,Crypto,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+16.0,TRM Labs,Growth Stage,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+110.0,NYDIG,Mature/Public,Crypto,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+89.0,Protocol Labs,Unknown,Crypto,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+20.0,Quidax,Unknown,Crypto,Lagos,Nigeria,6.4550575,3.3941795,2022.0,4.0
+42.0,Unstoppable Do.,Growth Stage,Crypto,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+100.0,Axonius,Unknown,Cybersecurity,New York City,USA,40.7127281,-74.0060152,2025.0,4.0
+76.0,Astronomer,Growth Stage,Data,Cincinnati,USA,39.1014537,-84.5124602,2023.0,1.0
+150.0,Placer.ai,Unknown,Data,Los Altos,USA,37.38522,-122.11413,2025.0,1.0
+90.0,Matterport,Growth Stage,Data,Sunnyvale,USA,37.3688301,-122.036349,2020.0,2.0
+170.0,Matterport,Mature/Public,Data,Sunnyvale,USA,37.3688301,-122.036349,2023.0,3.0
+240.0,NS8,Early Stage,Data,Las Vegas,USA,36.1672559,-115.148516,2020.0,3.0
+75.0,Palantir,Mature/Public,Data,Denver,USA,39.7392364,-104.984862,2023.0,1.0
+200.0,Software AG,Mature/Public,Data,Frankfurt am Main,Germany,50.1106444,8.6820917,2023.0,1.0
+80.0,Qumulo,Late Stage,Data,Seattle,USA,47.6038321,-122.330062,2022.0,2.0
+70.0,BitTitan,Mature/Public,Data,Seattle,USA,47.6038321,-122.330062,2021.0,4.0
+12.0,Descartes Labs,Growth Stage,Data,Santa Fe,USA,35.6876096,-105.938456,2020.0,2.0
+700.0,NetApp,Mature/Public,Data,San Jose,USA,37.3361663,-121.890591,2025.0,2.0
+70.0,Splunk,Mature/Public,Data,San Jose,USA,37.3361663,-121.890591,2020.0,2.0
+500.0,Splunk,Mature/Public,Data,San Jose,USA,37.3361663,-121.890591,2023.0,4.0
+325.0,Splunk,Mature/Public,Data,San Jose,USA,37.3361663,-121.890591,2023.0,1.0
+80.0,App Annie,Unknown,Data,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+65.0,Mixpanel,Growth Stage,Data,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+50.0,Segment,Growth Stage,Data,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+27.0,SafeGraph,Growth Stage,Data,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+65.0,BeyondMinds,Early Stage,Data,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,2.0
+30.0,Bright Machines,Unknown,Data,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+30.0,Pecan AI,Growth Stage,Data,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+65.0,InfluxData,Growth Stage,Data,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+1200.0,OpenText,Mature/Public,Data,Waterloo,Canada,43.4652699,-80.5222961,2024.0,3.0
+59.0,Rasa,Growth Stage,Data,Berlin,Germany,52.5170365,13.3888599,2022.0,1.0
+100.0,AppsFlyer,Unknown,Data,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+90.0,Domo,Mature/Public,Data,Salt Lake City,USA,40.7596198,-111.886797,2020.0,2.0
+200.0,DataRobot,Late Stage,Data,Boston,USA,42.3554334,-71.060511,2020.0,1.0
+84.0,MariaDB,Mature/Public,Data,Redwood City,USA,37.4863239,-122.232523,2023.0,4.0
+22.0,Citrine Informatics,Growth Stage,Data,Redwood City,USA,37.4863239,-122.232523,2023.0,1.0
+100.0,Sisense,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+60.0,Sisense,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+80.0,Sisense,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+60.0,Verbit,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+80.0,Verbit,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+241.0,UiPath,Mature/Public,Data,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+100.0,Hyperscience,Late Stage,Data,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+242.0,DataRobot,Late Stage,Data,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+70.0,DataRobot,Late Stage,Data,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+30.0,SQream,Growth Stage,Data,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+20.0,NuoDB,Unknown,Data,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+210.0,UiPath,Mature/Public,Data,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+12.0,Pliops,Growth Stage,Data,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+35.0,Anodot,Growth Stage,Data,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+221.0,Confluent,Mature/Public,Data,Mountain View,USA,37.3893889,-122.0832101,2023.0,1.0
+21.0,StellarAlgo,Early Stage,Data,Calgary,Canada,51.0456064,-114.057541,2023.0,4.0
+24.0,Revelate,Early Stage,Data,Montreal,Canada,45.5031824,-73.5698065,2022.0,4.0
+25.0,Code42,Growth Stage,Data,Minneapolis,USA,44.9772995,-93.2654692,2020.0,2.0
+99.0,Amplitude,Mature/Public,Data,Milpitas,USA,37.4332273,-121.8989248,2023.0,2.0
+20.0,GrayMeta,Unknown,Data,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+320.0,Alteryx,Mature/Public,Data,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+100.0,Astronomer,Growth Stage,Data,Cincinnati,USA,39.1014537,-84.5124602,2023.0,2.0
+500.0,eBay,Mature/Public,e-commerce,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+1000.0,eBay,Mature/Public,e-commerce,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+7.0,Coding Dojo,Unknown,Education,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+90.0,ApplyBoard,Growth Stage,Education,Waterloo,Canada,43.4652699,-80.5222961,2022.0,4.0
+47.0,Trybe,Growth Stage,Education,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+128.0,Trybe,Growth Stage,Education,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,2.0
+16.0,Top Hat,Growth Stage,Education,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+100.0,Thinkific,Mature/Public,Education,Vancouver,Canada,49.2608724,-123.113952,2022.0,1.0
+76.0,Thinkific,Mature/Public,Education,Vancouver,Canada,49.2608724,-123.113952,2023.0,1.0
+60.0,Career Karma,Growth Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+27.0,LearnUpon,Mature/Public,Education,Dublin,Ireland,53.3493795,-6.2605593,2023.0,1.0
+120.0,Physics Wallah,Early Stage,Education,Noida,India,28.5706333,77.3272147,2023.0,4.0
+26.0,Preply,Growth Stage,Education,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+15.0,Turnitin,Mature/Public,Education,Oakland,USA,37.8044557,-122.271356,2024.0,1.0
+24.0,Niche,Growth Stage,Education,Pittsburgh,USA,40.4416941,-79.9900861,2024.0,1.0
+41.0,Treehouse,Growth Stage,Education,Portland,USA,45.5202471,-122.674194,2021.0,3.0
+42.0,Course Hero,Growth Stage,Education,Redwood City,USA,37.4863239,-122.232523,2023.0,1.0
+12.0,BookClub,Early Stage,Education,Salt Lake City,USA,40.7596198,-111.886797,2022.0,2.0
+150.0,Instructure,Mature/Public,Education,Salt Lake City,USA,40.7596198,-111.886797,2020.0,2.0
+400.0,Pluralsight,Mature/Public,Education,Salt Lake City,USA,40.7596198,-111.886797,2022.0,4.0
+43.0,Outschool,Growth Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+31.0,Outschool,Growth Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+29.0,SchoolMint,Mature/Public,Education,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+37.0,Flockjay,Early Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2021.0,3.0
+150.0,Domestika,Growth Stage,Education,Berkeley,USA,37.8708393,-122.272863,2022.0,2.0
+120.0,MasterClass,Late Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+50.0,Wonderschool,Early Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+72.0,On Deck,Early Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+145.0,FrontRow,Early Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+130.0,FrontRow,Early Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+4.0,FrontRow,Early Stage,Education,Bengaluru,India,12.98815675,77.62260004,2023.0,3.0
+39.0,FrontRow,Early Stage,Education,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+100.0,Udayy,Early Stage,Education,Gurugram,India,28.4646148,77.0299194,2022.0,2.0
+137.0,Bluprint,Mature/Public,Education,Denver,USA,39.7392364,-104.984862,2020.0,2.0
+145.0,PrepLadder,Unknown,Education,New Delhi,India,28.6138954,77.2090057,2024.0,2.0
+73.0,On Deck,Early Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+170.0,Crejo.Fun,Early Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+45.0,Teachmint,Growth Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+42.0,Top Hat,Late Stage,Education,Toronto,Canada,43.6534817,-79.3839347,2023.0,3.0
+80.0,LEAD,Late Stage,Education,Mumbai,India,19.0785451,72.878176,2022.0,3.0
+55.0,Udacity,Unknown,Education,Mountain View,USA,37.3893889,-122.0832101,2022.0,4.0
+33.0,Studio,Growth Stage,Education,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+35.0,Top Hat,Late Stage,Education,Toronto,Canada,43.6534817,-79.3839347,2024.0,1.0
+89.0,Domestika,Growth Stage,Education,Madrid,Spain,40.4167047,-3.7035825,2023.0,1.0
+2500.0,Byju's,Mature/Public,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+500.0,Byju's,Mature/Public,Education,Bengaluru,India,12.98815675,77.62260004,2024.0,2.0
+350.0,Unacademy,Late Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+150.0,Coursera,Mature/Public,Education,Mountain View,USA,37.3893889,-122.0832101,2024.0,4.0
+1000.0,Unacademy,Late Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+300.0,Guild,Late Stage,Education,Denver,USA,39.7392364,-104.984862,2024.0,2.0
+172.0,Guild,Late Stage,Education,Denver,USA,39.7392364,-104.984862,2023.0,2.0
+81.0,Paper,Growth Stage,Education,Montreal,Canada,45.5031824,-73.5698065,2023.0,2.0
+81.0,Paper,Growth Stage,Education,Montreal,Canada,45.5031824,-73.5698065,2024.0,3.0
+106.0,Paper,Growth Stage,Education,Montreal,Canada,45.5031824,-73.5698065,2023.0,3.0
+150.0,Unacademy,Late Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+441.0,Chegg,Mature/Public,Education,Santa Clara,USA,37.354107,-121.955238,2024.0,2.0
+87.0,Paper,Growth Stage,Education,Montreal,Canada,45.5031824,-73.5698065,2023.0,3.0
+200.0,Vedantu,Late Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+424.0,Vedantu,Late Stage,Education,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+140.0,ContaAzul,Growth Stage,Education,Joinville,Brazil,-26.3044898,-48.8486726,2020.0,2.0
+441.0,Chegg,Mature/Public,Education,Santa Clara,USA,37.354107,-121.955238,2024.0,2.0
+31.0,Chegg,Mature/Public,Education,Santa Clara,USA,37.354107,-121.955238,2024.0,4.0
+80.0,Chegg,Mature/Public,Education,Santa Clara,USA,37.354107,-121.955238,2023.0,2.0
+248.0,Chegg,Mature/Public,Education,Santa Clara,USA,37.354107,-121.955238,2025.0,2.0
+4.0,TutorMundi,Early Stage,Education,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+106.0,Climeworks,Mature/Public,Energy,Zurich,Switzerland,47.3744489,8.5410422,2025.0,2.0
+120.0,RigUp,Growth Stage,Energy,Austin,USA,30.2711286,-97.7436995,2020.0,1.0
+900.0,SolarEdge,Mature/Public,Energy,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,1.0
+350.0,Enphase Energy,Mature/Public,Energy,Fremont,USA,37.5482697,-121.988571,2023.0,4.0
+111.0,Aurora Solar,Growth Stage,Energy,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+500.0,Enphase Energy,Mature/Public,Energy,Fremont,USA,37.5482697,-121.988571,2024.0,4.0
+170.0,Enovix,Mature/Public,Energy,Fremont,USA,37.5482697,-121.988571,2024.0,2.0
+47.0,Ecobee,Growth Stage,Energy,Toronto,Canada,43.6534817,-79.3839347,2020.0,1.0
+248.0,Moxion Power,Unknown,Energy,Richmond,USA,37.5385087,-77.43428,2024.0,3.0
+1600.0,Northvolt,Unknown,Energy,Stockholm,Sweden,59.3251172,18.0710935,2024.0,3.0
+30.0,Brighte,Growth Stage,Energy,Sydney,Australia,-33.8698439,151.2082848,2022.0,2.0
+154.0,NuScale Power,Mature/Public,Energy,Corvallis,USA,44.5645659,-123.2620435,2024.0,1.0
+65.0,Otovo,Mature/Public,Energy,Oslo,Norway,59.9133301,10.7389701,2024.0,1.0
+10.0,Nori,Unknown,Energy,Seattle,USA,47.6038321,-122.330062,2023.0,2.0
+2800.0,Northvolt,Unknown,Energy,Stockholm,Sweden,59.3251172,18.0710935,2025.0,1.0
+600.0,Take-Two,Mature/Public,Entertainment Providers,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+170.0,Zupee,Unknown,Entertainment Providers,Gurugram,India,28.4646148,77.0299194,2025.0,3.0
+141.0,MyBambu,Unknown,Financial Services,Memphis,USA,35.1460249,-90.0517638,2025.0,4.0
+30.0,Embroker,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+500.0,Lendingkart,Unknown,Fintech,Ahmedabad,India,23.0216238,72.5797068,2020.0,2.0
+104.0,Greenlight,Growth Stage,Fintech,Atlanta,USA,33.7489924,-84.3902644,2023.0,1.0
+90.0,Sunday,Early Stage,Fintech,Atlanta,USA,33.7489924,-84.3902644,2022.0,2.0
+25.0,TradeWindow,Growth Stage,Fintech,Auckland,New Zealand,-36.852095,174.7631803,2023.0,1.0
+19.0,Loop,Early Stage,Fintech,Austin,USA,30.2711286,-97.7436995,2023.0,1.0
+15.0,Loop,Early Stage,Fintech,Austin,USA,30.2711286,-97.7436995,2022.0,3.0
+90.0,ScaleFactor,Growth Stage,Fintech,Austin,USA,30.2711286,-97.7436995,2020.0,2.0
+30.0,Fi.Money,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,3.0
+15.0,Smallcase,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+100.0,Simpl,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2024.0,2.0
+150.0,Simpl,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+40.0,Navi,Mature/Public,Fintech,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+100.0,Bright Money,Early Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2022.0,3.0
+6.0,Instamojo,Unknown,Fintech,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+150.0,ZestMoney,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,4.0
+100.0,ZestMoney,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+29.0,Tickertape,Early Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+190.0,Clear,Growth Stage,Fintech,Bengaluru,India,12.98815675,77.62260004,2022.0,3.0
+160.0,Happay,Mature/Public,Fintech,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+180.0,Rupeek,Unknown,Fintech,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+75.0,Zeitgold,Growth Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2020.0,3.0
+100.0,Smava,Unknown,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+50.0,Kontist,Growth Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,2.0
+120.0,Taxfix,Growth Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2023.0,2.0
+100.0,Smava,Unknown,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+45.0,Nuri,Growth Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,2.0
+70.0,Moss,Growth Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+71.0,N26,Late Stage,Fintech,Berlin,Germany,52.5170365,13.3888599,2023.0,2.0
+43.0,Elinvar,Unknown,Fintech,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+60.0,Flywire,Late Stage,Fintech,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+53.0,Ualá,Growth Stage,Fintech,Buenos Aires,Argentina,-34.6037181,-58.38153,2022.0,4.0
+140.0,Ualá,Unknown,Fintech,Buenos Aires,Argentina,-34.6037181,-58.38153,2024.0,2.0
+48.0,Guideline,Late Stage,Fintech,Burlingame,USA,37.5780965,-122.3473099,2023.0,2.0
+47.0,Polly,Growth Stage,Fintech,Burlington,USA,44.4761601,-73.212906,2022.0,4.0
+130.0,Amount,Unknown,Fintech,Chicago,USA,41.8755616,-87.6244212,2023.0,1.0
+81.0,Clearcover,Growth Stage,Fintech,Chicago,USA,41.8755616,-87.6244212,2023.0,2.0
+30.0,Coterie Insurance,Growth Stage,Fintech,Cincinnati,USA,39.1014537,-84.5124602,2022.0,2.0
+137.0,Root Insurance,Mature/Public,Fintech,Columbus,USA,39.9622601,-83.0007065,2022.0,4.0
+150.0,Pleo,Growth Stage,Fintech,Copenhagen,Denmark,55.6867243,12.5700724,2022.0,4.0
+62.0,Ebanx,Unknown,Fintech,Curitiba,Brazil,-25.4295963,-49.2712724,2020.0,2.0
+340.0,Ebanx,Growth Stage,Fintech,Curitiba,Brazil,-25.4295963,-49.2712724,2022.0,2.0
+300.0,Wave,Early Stage,Fintech,Dakar,Senegal,14.693425,-17.447938,2022.0,3.0
+41.0,Bestow,Growth Stage,Fintech,Dallas,USA,32.7762719,-96.7968559,2022.0,2.0
+67.0,AgentSync,Growth Stage,Fintech,Denver,USA,39.7392364,-104.984862,2023.0,3.0
+72.0,Juni,Unknown,Fintech,Gothenburg,Sweden,57.7072326,11.9670171,2022.0,4.0
+90.0,Kueski,Growth Stage,Fintech,Guadalajara,Mexico,20.6720375,-103.338396,2020.0,2.0
+1500.0,PaisaBazaar,Late Stage,Fintech,Gurugram,India,28.4646148,77.0299194,2020.0,2.0
+14.0,Finleap Connect,Early Stage,Fintech,Hamburg,Germany,53.550341,10.000654,2022.0,2.0
+30.0,Tomorrow,Unknown,Fintech,Hamburg,Germany,53.550341,10.000654,2022.0,4.0
+400.0,Oriente,Growth Stage,Fintech,Hong Kong,Hong Kong,22.2793278,114.1628131,2020.0,2.0
+310.0,Doma,Mature/Public,Fintech,Huntington Beach,USA,33.6783336,-118.000016,2022.0,2.0
+250.0,Doma,Mature/Public,Fintech,Huntington Beach,USA,33.6783336,-118.000016,2022.0,3.0
+515.0,Doma,Mature/Public,Fintech,Huntington Beach,USA,33.6783336,-118.000016,2022.0,4.0
+67.0,Ajaib,Unknown,Fintech,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+70.0,KoinWorks,Unknown,Fintech,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+20.0,C2FO,Late Stage,Fintech,Kansas City,USA,39.100105,-94.5781416,2022.0,4.0
+80.0,C2FO,Late Stage,Fintech,Kansas City,USA,39.100105,-94.5781416,2023.0,4.0
+23.0,Kuda,Growth Stage,Fintech,Lagos,Nigeria,6.4550575,3.3941795,2022.0,3.0
+120.0,Monzo,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2020.0,2.0
+30.0,Zepz,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2023.0,4.0
+420.0,Zepz,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2023.0,2.0
+85.0,Zego,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2022.0,3.0
+29.0,Uncapped,Unknown,Fintech,London,UK,51.4893335,-0.144055085,2022.0,2.0
+40.0,TrueLayer,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2022.0,3.0
+71.0,TrueLayer,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2024.0,4.0
+100.0,Checkout.com,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2022.0,3.0
+65.0,Curve,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2022.0,2.0
+1000.0,FNZ,Mature/Public,Fintech,London,UK,51.4893335,-0.144055085,2023.0,3.0
+45.0,Freetrade,Unknown,Fintech,London,UK,51.4893335,-0.144055085,2022.0,2.0
+150.0,GoCardless,Late Stage,Fintech,London,UK,51.4893335,-0.144055085,2023.0,2.0
+50.0,RiseUp,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2024.0,2.0
+60.0,Revolut,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2020.0,2.0
+85.0,Primer,Growth Stage,Fintech,London,UK,51.4893335,-0.144055085,2022.0,4.0
+8.0,Octopus Ventures,Unknown,Fintech,London,UK,51.4893335,-0.144055085,2024.0,2.0
+200.0,Zepz,Late Stage,Fintech,London,United Kingdom,51.4893335,-0.144055085,2025.0,1.0
+95.0,BlackLine,Mature/Public,Fintech,Los Angeles,USA,34.0536909,-118.242766,2023.0,3.0
+158.0,Happy Money,Growth Stage,Fintech,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+20.0,Albert,Growth Stage,Fintech,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+84.0,Recharge,Growth Stage,Fintech,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+80.0,InvestCloud,Mature/Public,Fintech,Los Angeles,USA,34.0536909,-118.242766,2023.0,4.0
+95.0,BlackLine,Mature/Public,Fintech,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+51.0,PeerStreet,Growth Stage,Fintech,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+83.0,Openpay,Mature/Public,Fintech,Melbourne,Australia,-37.8142454,144.9631732,2023.0,1.0
+713.0,Robinhood,Mature/Public,Fintech,Menlo Park,USA,37.4519671,-122.177992,2022.0,3.0
+340.0,Robinhood,Mature/Public,Fintech,Menlo Park,USA,37.4519671,-122.177992,2022.0,2.0
+150.0,Robinhood,Mature/Public,Fintech,Menlo Park,USA,37.4519671,-122.177992,2023.0,2.0
+15.0,Kaleidoscope,Early Stage,Fintech,Minneapolis,USA,44.9772995,-93.2654692,2023.0,1.0
+715.0,Intuit,Mature/Public,Fintech,Mountain View,USA,37.3893889,-122.0832101,2020.0,2.0
+1800.0,Intuit,Mature/Public,Fintech,Mountain View,USA,37.3893889,-122.0832101,2024.0,3.0
+20.0,Addepar,Late Stage,Fintech,Mountain View,USA,37.3893889,-122.0832101,2023.0,1.0
+22.0,Credit Sesame,Late Stage,Fintech,Mountain View,USA,37.3893889,-122.0832101,2020.0,2.0
+45.0,Acko,Unknown,Fintech,Mumbai,India,19.0785451,72.878176,2020.0,2.0
+19.0,Wint Wealth,Early Stage,Fintech,Nashik,India,20.0112475,73.7902364,2024.0,1.0
+32.0,Stash,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+40.0,Stash,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+88.0,Stash,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2024.0,4.0
+80.0,Stash,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+40.0,Stash Financial,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+30.0,Teampay,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+9.0,N26,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+20.0,Thimble,Early Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+170.0,PolicyGenius,Late Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+37.0,Capitolis,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+35.0,Jetty,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+15.0,Boost,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+25.0,Kickstarter,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+60.0,Payoneer,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2025.0,4.0
+65.0,Paxos,Unknown,Fintech,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+140.0,Pagaya,Mature/Public,Fintech,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+45.0,Lemonade,Mature/Public,Fintech,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+27.0,Lithic,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+20.0,Argyle,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+40.0,Melio,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+30.0,EquityZen,Growth Stage,Fintech,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+100.0,Chargebee,Late Stage,Fintech,North Bethesda,USA,37.773972,-122.431297,2023.0,3.0
+142.0,Chargebee,Late Stage,Fintech,North Bethesda,USA,37.773972,-122.431297,2022.0,4.0
+931.0,Block,Mature/Public,Fintech,Oakland,USA,37.8044557,-122.271356,2025.0,1.0
+75.0,Drip Capital,Growth Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2023.0,2.0
+120.0,Hippo Insurance,Mature/Public,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2023.0,4.0
+70.0,Hippo Insurance,Mature/Public,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2022.0,3.0
+17.0,Synctera,Early Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2024.0,1.0
+25.0,Equitybee,Growth Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2022.0,4.0
+13.0,Ladder Life,Growth Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2020.0,1.0
+24.0,Equitybee,Growth Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2023.0,1.0
+50.0,Earnin,Growth Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2020.0,2.0
+145.0,Navan,Unknown,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2023.0,4.0
+150.0,Next Insurance,Late Stage,Fintech,Palo Alto,USA,37.4443293,-122.1598465,2022.0,3.0
+28.0,Cowbell,Growth Stage,Fintech,Pleasanton,USA,37.6624312,-121.8746789,2023.0,3.0
+375.0,Wex,Mature/Public,Fintech,Portland,USA,45.5202471,-122.674194,2024.0,2.0
+69.0,Socure,Late Stage,Fintech,Reno,USA,39.5261206,-119.8126581,2022.0,2.0
+104.0,Socure,Late Stage,Fintech,Reno,USA,39.5261206,-119.8126581,2023.0,1.0
+155.0,Oportun,Mature/Public,Fintech,San Carlos,USA,37.504936,-122.261823,2023.0,1.0
+32.0,AtoB,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+15.0,Vouch,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+172.0,Lending Club,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+225.0,Lending Club,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+460.0,Lending Club,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+27.0,PayJoy,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+100.0,Blend,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+89.0,Unison,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+340.0,Blend,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+220.0,Blend,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+150.0,Blend,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+200.0,Blend,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+1000.0,Block,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+130.0,Bolt,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+240.0,Bolt,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+50.0,Bolt,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+45.0,Pilot,Unknown,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+200.0,Pipe,Unknown,Fintech,San Francisco,USA,37.7792588,-122.4193286,2025.0,4.0
+260.0,Plaid,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+62.0,Brex,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+136.0,Brex,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+282.0,Brex,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+70.0,Rapid,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+115.0,Rapid,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+161.0,Carta,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+40.0,Treasury Prime,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+14.0,Treasure Financial,Early Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+156.0,Chime,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+15.0,Chipper Cash,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+50.0,Chipper Cash,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+28.0,Tilia,Unknown,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+100.0,Chipper Cash,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+150.0,Fundbox,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+14.0,Fundbox,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+28.0,Tally,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+30.0,Flutterwave,Unknown,Fintech,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+63.0,SynapseFI,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+86.0,Synapse,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+60.0,Metromile,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+100.0,Metromile,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+500.0,Affirm,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+37.0,Altruist,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+45.0,Mainstreet,Early Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+18.0,Ethos Life,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+40.0,Ethos Life,Growth Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+123.0,Tipalti,Late Stage,Fintech,Agoura Hills,USA,34.14791,-118.7657042,2023.0,1.0
+112.0,SoFi,Mature/Public,Fintech,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+300.0,Stripe,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+1000.0,Stripe,Late Stage,Fintech,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+2000.0,PayPal,Mature/Public,Fintech,San Jose,USA,37.3361663,-121.890591,2023.0,1.0
+2500.0,PayPal,Mature/Public,Fintech,San Jose,USA,37.3361663,-121.890591,2024.0,1.0
+365.0,Upstart,Mature/Public,Fintech,San Mateo,USA,37.496904,-122.3330573,2023.0,1.0
+140.0,Upstart,Mature/Public,Fintech,San Mateo,USA,37.496904,-122.3330573,2022.0,4.0
+70.0,Neon,Growth Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+190.0,Dock,Mature/Public,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+210.0,Neon,Growth Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+136.0,Omie,Growth Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+100.0,SumUp,Unknown,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+111.0,Pier,Growth Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+28.0,Quanto,Early Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+58.0,Hash,Growth Stage,Fintech,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+22.0,Lighter Capital,Growth Stage,Fintech,Seattle,USA,47.6038321,-122.330062,2020.0,3.0
+18.0,Lighter Capital,Growth Stage,Fintech,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+31.0,Stashaway,Growth Stage,Fintech,Singapore,Singapore,1.2899175,103.8519072,2022.0,2.0
+22.0,GoBear,Unknown,Fintech,Singapore,Singapore,1.2899175,103.8519072,2020.0,3.0
+65.0,Funding Societies,Growth Stage,Fintech,Singapore,Singapore,1.2899175,103.8519072,2020.0,2.0
+44.0,Tomo,Early Stage,Fintech,Stamford,USA,41.0534302,-73.5387341,2022.0,2.0
+700.0,Klarna,Unknown,Fintech,Stockholm,Sweden,59.3251172,18.0710935,2022.0,2.0
+300.0,Zip,Mature/Public,Fintech,Sydney,Australia,-33.8698439,151.2082848,2023.0,3.0
+40.0,InDebted,Growth Stage,Fintech,Sydney,Australia,-33.8698439,151.2082848,2022.0,3.0
+30.0,DataRails,Growth Stage,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+30.0,Earnix,Unknown,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,2.0
+100.0,Bluevine,Unknown,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,4.0
+30.0,Rapyd,Unknown,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+100.0,eToro,Unknown,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+150.0,Vesttoo,Growth Stage,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,3.0
+100.0,Pagaya,Mature/Public,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+20.0,Lightico,Growth Stage,Fintech,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+17.0,Clearbanc,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+26.0,Briza,Early Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2022.0,4.0
+125.0,Clearco,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+50.0,ClearCo,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+15.0,Borrowell,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+80.0,FreshBooks,Unknown,Fintech,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+15.0,Koho,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2022.0,4.0
+38.0,Freshbooks,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+5.0,Aya,Early Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2020.0,4.0
+159.0,Wealthsimple,Unknown,Fintech,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+17.0,Sensibill,Growth Stage,Fintech,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+450.0,Bench,Growth Stage,Fintech,Vancouver,Canada,49.2608724,-123.113952,2024.0,4.0
+47.0,Bench,Growth Stage,Fintech,Vancouver,Canada,49.2608724,-123.113952,2020.0,1.0
+78.0,Mogo,Mature/Public,Fintech,Vancouver,Canada,49.2608724,-123.113952,2020.0,1.0
+63.0,Pie Insurance,Growth Stage,Fintech,Washington DC,USA,38.8950368,-77.0365427,2023.0,2.0
+800.0,Xero,Mature/Public,Fintech,Wellington,New Zealand,-41.2887953,174.7772114,2023.0,1.0
+100.0,nCino,Mature/Public,Fintech,Wilmington,USA,39.7459468,-75.546589,2023.0,1.0
+62.0,Numbrs,Growth Stage,Fintech,Zurich,Switzerland,47.3744489,8.5410422,2020.0,2.0
+80.0,Zwift,Growth Stage,Fitness,Los Angeles,USA,34.0536909,-118.242766,2023.0,1.0
+500.0,Peloton,Mature/Public,Fitness,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+30.0,Fittr,Early Stage,Fitness,Pune,India,18.521428,73.8544541,2023.0,1.0
+784.0,Flywheel Sports,Mature/Public,Fitness,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+700.0,MindBody,Mature/Public,Fitness,San Luis Obispo,USA,35.3540209,-120.375716,2020.0,2.0
+2800.0,Peloton,Mature/Public,Fitness,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+262.0,Tonal,Late Stage,Fitness,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+784.0,Peloton,Mature/Public,Fitness,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+17.0,Zenoti,Growth Stage,Fitness,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+467.0,Gympass,Growth Stage,Fitness,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+800.0,CureFit,Growth Stage,Fitness,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+55.0,Urban Sports Club,Unknown,Fitness,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+95.0,WHOOP,Late Stage,Fitness,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+400.0,MindBody,Mature/Public,Fitness,San Luis Obispo,USA,35.3540209,-120.375716,2022.0,4.0
+154.0,ClassPass,Late Stage,Fitness,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+300.0,iFit,Mature/Public,Fitness,Logan,USA,40.1075089,-89.3768539,2022.0,4.0
+400.0,Peloton,Mature/Public,Fitness,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+100.0,eGym,Growth Stage,Fitness,Munich,Germany,48.1371079,11.5753822,2020.0,2.0
+520.0,Zomato,Late Stage,Food,Gurugram,India,28.4646148,77.0299194,2020.0,2.0
+300.0,Dunzo,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+60.0,Lunchbox,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+26.0,Foxtrot,Growth Stage,Food,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+100.0,FreshDirect,Mature/Public,Food,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+150.0,Dunzo,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2023.0,3.0
+50.0,Iron Ox,Growth Stage,Food,Gilroy,USA,37.0065078,-121.5631723,2022.0,4.0
+50.0,Impossible Foods,Late Stage,Food,Redwood City,USA,37.4863239,-122.232523,2022.0,4.0
+200.0,Zume,Unknown,Food,Camarillo,USA,34.2176371,-119.0383541,2020.0,2.0
+150.0,Weee!,Late Stage,Food,Fremont,USA,37.5482697,-121.988571,2022.0,2.0
+400.0,ezCater,Growth Stage,Food,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+100.0,Liv Up,Growth Stage,Food,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,1.0
+400.0,Swiggy,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2024.0,1.0
+350.0,Swiggy,Late Stage,Food,Bengaluru,India,12.98815675,77.62260004,2020.0,3.0
+355.0,iFood,Mature/Public,Food,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+4.0,Spyce,Early Stage,Food,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+131.0,TouchBistro,Late Stage,Food,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+1100.0,Swiggy,Late Stage,Food,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+60.0,Daily Harvest,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+93.0,Kitopi,Growth Stage,Food,Dubai,United Arabian Emirates,25.276987,55.296249,2022.0,4.0
+23.0,Ritual,Growth Stage,Food,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+65.0,Beyond Meat,Mature/Public,Food,Los Angeles,USA,34.0536909,-118.242766,2023.0,4.0
+8000.0,Flink,Growth Stage,Food,Berlin,Germany,52.5170365,13.3888599,2023.0,2.0
+40.0,Beyond Meat,Mature/Public,Food,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+250.0,Instacart,Mature/Public,Food,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+100.0,Delivery Hero,Mature/Public,Food,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+20.0,Gro Intelligence,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+90.0,Gro Intelligence,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+300.0,Delivery Hero,Mature/Public,Food,Berlin,Germany,52.5170365,13.3888599,2021.0,4.0
+156.0,Delivery Hero,Mature/Public,Food,Berlin,Germany,52.5170365,13.3888599,2023.0,1.0
+800.0,Swiggy,Late Stage,Food,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+2500.0,Getir,Late Stage,Food,London,UK,51.4893335,-0.144055085,2023.0,3.0
+300.0,Just Eat,Mature/Public,Food,Amsterdam,Netherlands,52.3730796,4.8924534,2024.0,4.0
+150.0,Simple Feast,Unknown,Food,Copenhagen,Denmark,55.6867243,12.5700724,2022.0,3.0
+200.0,Beyond Meat,Mature/Public,Food,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+81.0,Olo,Mature/Public,Food,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+380.0,Swiggy,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+150.0,Dunzo,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2024.0,3.0
+350.0,Deliveroo,Mature/Public,Food,London,UK,51.4893335,-0.144055085,2023.0,1.0
+367.0,Deliveroo,Late Stage,Food,London,UK,51.4893335,-0.144055085,2020.0,2.0
+100.0,Fifth Season,Growth Stage,Food,Pittsburgh,USA,40.4416941,-79.9900861,2022.0,4.0
+100.0,Gopuff,Late Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2022.0,1.0
+1250.0,DoorDash,Mature/Public,Food,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+250.0,Gopuff,Late Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2022.0,4.0
+1500.0,Gopuff,Late Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2022.0,3.0
+100.0,Gopuff,Late Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2023.0,1.0
+649.0,MiSan Francisco Bay Areaits Market,Growth Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2023.0,1.0
+450.0,Gopuff,Late Stage,Food,Philadelphia,USA,39.9527237,-75.1635262,2022.0,1.0
+17.0,Ynsect,Growth Stage,Food,Paris,France,48.8588897,2.320041022,2023.0,2.0
+65.0,Chope,Late Stage,Food,Singapore,Singapore,1.2899175,103.8519072,2022.0,4.0
+300.0,Otipy,Growth Stage,Food,New Delhi,India,28.6138954,77.2090057,2025.0,2.0
+300.0,WayCool,Unknown,Food,Chennai,India,13.0836939,80.270186,2023.0,3.0
+75.0,Thriver,Growth Stage,Food,Toronto,Canada,43.6534817,-79.3839347,2020.0,3.0
+5.0,Synergysuite,Early Stage,Food,Salt Lake City,USA,40.7596198,-111.886797,2020.0,2.0
+40.0,ChowNow,Growth Stage,Food,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+30.0,Bevi,Growth Stage,Food,Boston,USA,42.3554334,-71.060511,2020.0,1.0
+80.0,Aqgromalin,Unknown,Food,Chennai,India,13.0836939,80.270186,2022.0,2.0
+34.0,Grabango,Unknown,Food,Berkeley,USA,37.8708393,-122.272863,2023.0,3.0
+100.0,Flink,Growth Stage,Food,Berlin,Germany,52.5170365,13.3888599,2023.0,2.0
+100.0,ChowNow,Growth Stage,Food,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+300.0,SEND,Early Stage,Food,Sydney,Australia,-33.8698439,151.2082848,2022.0,2.0
+196.0,Ritual,Growth Stage,Food,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+20.0,Food52,Mature/Public,Food,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+21.0,Food52,Mature/Public,Food,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+60.0,ChowNow,Growth Stage,Food,Los Angeles,USA,34.0536909,-118.242766,2024.0,1.0
+100.0,Zomato,Late Stage,Food,Gurugram,India,28.4646148,77.0299194,2022.0,4.0
+400.0,Milkbasket,Mature/Public,Food,Gurugram,India,28.4646148,77.0299194,2023.0,3.0
+140.0,Impossible Foods,Late Stage,Food,Redwood City,USA,37.4863239,-122.232523,2023.0,1.0
+250.0,Cornershop,Mature/Public,Food,Santiago,Chile,-33.4377756,-70.6504502,2023.0,2.0
+283.0,Twiga,Growth Stage,Food,Nairobi,Kenya,-1.2832533,36.8172449,2023.0,3.0
+211.0,Twiga,Growth Stage,Food,Nairobi,Kenya,-1.2832533,36.8172449,2022.0,4.0
+50.0,JOKR,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+70.0,Oda,Unknown,Food,Oslo,Norway,59.9133301,10.7389701,2022.0,4.0
+120.0,Deliveroo Australia,Mature/Public,Food,Melbourne,Australia,-37.8142454,144.9631732,2022.0,4.0
+100.0,Zak,Early Stage,Food,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+120.0,Vendease,Early Stage,Food,Lagos,Nigeria,6.4550575,3.3941795,2025.0,1.0
+400.0,Grubhub,Mature/Public,Food,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+500.0,Grubhub,Mature/Public,Food,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+30.0,Aleph Farms,Unknown,Food,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+87.0,Foodsby,Growth Stage,Food,Minneapolis,USA,44.9772995,-93.2654692,2020.0,1.0
+400.0,Milkrun,Early Stage,Food,Sydney,Australia,-33.8698439,151.2082848,2023.0,2.0
+180.0,Postmates,Mature/Public,Food,San Francisco,USA,37.7792588,-122.4193286,2021.0,1.0
+87.0,Quandoo,Mature/Public,Food,Berlin,Germany,52.5170365,13.3888599,2021.0,1.0
+250.0,Swiggy,Unknown,Food,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+130.0,Wonder,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+68.0,7Shifts,Growth Stage,Food,Saskatoon,Canada,52.131802,-106.660767,2024.0,1.0
+134.0,Perfect Day,Growth Stage,Food,Berkeley,USA,37.8708393,-122.272863,2023.0,3.0
+20.0,Eatsy,Early Stage,Food,Singapore,Singapore,1.2899175,103.8519072,2020.0,3.0
+40.0,BharatAgri,Early Stage,Food,Mumbai,India,19.0785451,72.878176,2023.0,1.0
+30.0,7shifts,Growth Stage,Food,Saskatoon,Canada,52.131802,-106.660767,2023.0,3.0
+38.0,Ritual,Growth Stage,Food,Toronto,Canada,43.6534817,-79.3839347,2023.0,2.0
+300.0,Gorillas,Growth Stage,Food,Berlin,Germany,52.5170365,13.3888599,2022.0,2.0
+350.0,Green Labs,Growth Stage,Food,Seoul,South Korea,37.5666791,126.9782914,2023.0,1.0
+80.0,Licious,Late Stage,Food,Bengaluru,India,12.98815675,77.62260004,2024.0,1.0
+27.0,Vendease,Early Stage,Food,Lagos,Nigeria,6.4550575,3.3941795,2022.0,4.0
+500.0,Avo,Growth Stage,Food,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,2.0
+1300.0,Toast,Late Stage,Food,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+550.0,Toast,Mature/Public,Food,Boston,USA,42.3554334,-71.060511,2024.0,1.0
+250.0,Glovo,Mature/Public,Food,Barcelona,Spain,41.3828939,2.1774322,2023.0,1.0
+35.0,Sweetgreen,Late Stage,Food,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+9.0,Iris Nova,Early Stage,Food,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+1000.0,Butler Hospitality,Growth Stage,Food,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+250.0,Fiverr,Unknown,Freelance services marketplace,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,3.0
+40.0,Kwalee,Unknown,Gaming,Leamington Spa,UK,52.2913394,-1.536404,2024.0,2.0
+49.0,Singularity 6,Growth Stage,Gaming,Los Angeles,USA,34.0536909,-118.242766,2024.0,2.0
+2500.0,Hewlett Packard Enterprise,Mature/Public,Hardware,Palo Alto,USA,37.4443293,-122.1598465,2025.0,1.0
+2400.0,Micron,Mature/Public,Hardware,Boise,USA,43.6166163,-116.200886,2023.0,1.0
+30.0,Twine Solutions,Unknown,Hardware,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+20.0,Sightful,Unknown,Hardware,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,3.0
+50.0,Avidbots,Growth Stage,Hardware,Kitchener,Canada,43.451291,-80.4927815,2023.0,1.0
+6000.0,Dell,Mature/Public,Hardware,Austin,USA,30.2711286,-97.7436995,2024.0,1.0
+1000.0,AMD,Mature/Public,Hardware,Santa Clara,USA,37.354107,-121.955238,2024.0,4.0
+3000.0,Xerox,Mature/Public,Hardware,Norwalk,USA,41.1175966,-73.4078968,2024.0,1.0
+22000.0,Intel,Mature/Public,Hardware,Sacramento,USA,38.5810606,-121.493895,2025.0,2.0
+130.0,SiFive,Late Stage,Hardware,Santa Clara,USA,37.354107,-121.955238,2023.0,4.0
+4800.0,Micron,Mature/Public,Hardware,Boise,USA,43.6166163,-116.200886,2023.0,1.0
+15000.0,Intel,Mature/Public,Hardware,Santa Clara,USA,37.354107,-121.955238,2024.0,3.0
+60.0,Western Digital,Mature/Public,Hardware,Kfar Saba,Israel,32.18023485,34.9180542,2023.0,2.0
+10.0,Humane,Growth Stage,Hardware,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+35.0,Wheel,Growth Stage,Healthcare,Austin,USA,30.2711286,-97.7436995,2022.0,3.0
+60.0,Sanar,Unknown,Healthcare,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+131.0,Tome Biosciences,Early Stage,Healthcare,Boston,USA,42.3554334,-71.060511,2024.0,3.0
+75.0,Sami,Unknown,Healthcare,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+100.0,Adaptive Biotechnology,Mature/Public,Healthcare,Seattle,USA,47.6038321,-122.330062,2022.0,1.0
+119.0,Nomad Health,Unknown,Healthcare,New York City,USA,40.7127281,-74.0060152,2023.0,4.0
+60.0,Maven Clinic,Late Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2024.0,4.0
+101.0,SummerBio,Unknown,Healthcare,Menlo Park,USA,37.4519671,-122.177992,2022.0,2.0
+500.0,Noom,Late Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+250.0,Carbon Health,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+114.0,Carbon Health,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+11.0,RealSelf,Growth Stage,Healthcare,Seattle,USA,47.6038321,-122.330062,2022.0,3.0
+110.0,Sidecar Health,Growth Stage,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+46.0,Akili Labs,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+40.0,RealSelf,Growth Stage,Healthcare,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+31.0,Clue,Unknown,Healthcare,Berlin,Germany,52.5170365,13.3888599,2023.0,1.0
+600.0,MFine,Growth Stage,Healthcare,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+70.0,Oscar Health,Unknown,Healthcare,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+50.0,NanoString Technology,Mature/Public,Healthcare,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+200.0,Forward,Late Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+44.0,Ahead,Unknown,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+100.0,Freenome,Unknown,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+23.0,Komodo Health,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+68.0,Hims & Hers,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2025.0,2.0
+90.0,Innovaccer,Late Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+78.0,Komodo Health,Late Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+245.0,Innovaccer,Late Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+450.0,Olive AI,Late Stage,Healthcare,Columbus,USA,39.9622601,-83.0007065,2022.0,3.0
+95.0,54gene,Growth Stage,Healthcare,Washington DC,USA,38.8950368,-77.0365427,2022.0,3.0
+400.0,Cerebral,Growth Stage,Healthcare,Walnut,USA,37.910076,-122.065186,2022.0,4.0
+15.0,Clarify Health,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+72.0,Tia,Unknown,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2025.0,4.0
+9.0,Incredible Health,Early Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+100.0,PatientPop,Growth Stage,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+181.0,Headspace,Unknown,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+50.0,Headspace,Unknown,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+80.0,AlayaCare,Growth Stage,Healthcare,Montreal,Canada,45.5031824,-73.5698065,2022.0,3.0
+47.0,Alto Pharmacy,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2020.0,3.0
+200.0,23andMe,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+40.0,Healthy.io,Growth Stage,Healthcare,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,3.0
+215.0,Olive AI,Late Stage,Healthcare,Columbus,USA,39.9622601,-83.0007065,2023.0,1.0
+75.0,23andMe,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+70.0,BenchSci,Growth Stage,Healthcare,Toronto,Canada,43.6534817,-79.3839347,2024.0,1.0
+10.0,Welkin Health,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+70.0,Healthy.io,Growth Stage,Healthcare,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,2.0
+285.0,Cerebral,Growth Stage,Healthcare,Walnut,USA,37.910076,-122.065186,2023.0,1.0
+45.0,Huma,Unknown,Healthcare,London,UK,51.4893335,-0.144055085,2023.0,3.0
+77.0,Lyra Health,Late Stage,Healthcare,Burlingame,USA,37.5780965,-122.3473099,2024.0,4.0
+23.0,Antidote Health,Unknown,Healthcare,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+8.0,Docly,Early Stage,Healthcare,London,UK,51.4893335,-0.144055085,2020.0,3.0
+800.0,GoHealth,Mature/Public,Healthcare,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+50.0,Kenko Health,Early Stage,Healthcare,Mumbai,India,19.0785451,72.878176,2023.0,3.0
+94.0,Cue Health,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2024.0,1.0
+50.0,Eucalyptus,Growth Stage,Healthcare,Sydney,Australia,-33.8698439,151.2082848,2022.0,3.0
+326.0,Cue Health,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2023.0,2.0
+180.0,Cue Health,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2024.0,2.0
+500.0,Illumina,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2022.0,4.0
+270.0,Twist Bioscience,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+18.0,HealthMatch,Growth Stage,Healthcare,Sydney,Australia,-33.8698439,151.2082848,2022.0,2.0
+315.0,Fate Therapeutics,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2023.0,1.0
+23.0,iCAD,Mature/Public,Healthcare,Nashua,USA,42.7656251,-71.4677032,2023.0,1.0
+154.0,Bridge Connector,Growth Stage,Healthcare,Nashville,USA,36.1622767,-86.7742984,2020.0,4.0
+230.0,Cue Health,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2024.0,2.0
+245.0,Cue Health,Mature/Public,Healthcare,San Diego,USA,32.7174202,-117.162772,2024.0,1.0
+100.0,Doximity,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+30.0,Synapsica,Early Stage,Healthcare,New Delhi,India,28.6138954,77.2090057,2022.0,4.0
+50.0,Breathe,Early Stage,Healthcare,New Delhi,India,28.6138954,77.2090057,2022.0,2.0
+49.0,SonderMind,Growth Stage,Healthcare,Denver,USA,39.7392364,-104.984862,2024.0,1.0
+62.0,OrCam,Unknown,Healthcare,Jerusalem,Israel,31.78847185,35.21879441,2022.0,4.0
+140.0,GoodRx,Mature/Public,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+25.0,Pear Therapeutics,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+29.0,Vesalius Therapeutics,Growth Stage,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+170.0,Pear Therapeutics,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2023.0,2.0
+59.0,Pear Therapeutics,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+150.0,Truepill,Growth Stage,Healthcare,Hayward,USA,37.6688205,-122.080796,2022.0,2.0
+175.0,Truepill,Growth Stage,Healthcare,Hayward,USA,37.6688205,-122.080796,2022.0,3.0
+100.0,InSightec,Unknown,Healthcare,Haifa,Israel,32.799313,34.98957172,2023.0,4.0
+300.0,Pristyn Care,Late Stage,Healthcare,Gurugram,India,28.4646148,77.0299194,2023.0,1.0
+120.0,Pristyn Care,Late Stage,Healthcare,Gurugram,India,28.4646148,77.0299194,2024.0,1.0
+160.0,Rubius,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+48.0,Titan Medical,Mature/Public,Healthcare,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+63.0,Nevro,Mature/Public,Healthcare,Redwood City,USA,37.4863239,-122.232523,2024.0,1.0
+400.0,Ginkgo Bioworks,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2024.0,2.0
+150.0,HealthifyMe,Growth Stage,Healthcare,Bengaluru,India,12.98815675,77.62260004,2024.0,2.0
+50.0,Vezeeta,Growth Stage,Healthcare,Dubai,United Arabian Emirates,25.276987,55.296249,2022.0,2.0
+50.0,DeepVerge,Mature/Public,Healthcare,Dublin,Ireland,53.3493795,-6.2605593,2023.0,3.0
+235.0,Invitae,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+400.0,Ginkgo Bioworks,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2024.0,2.0
+30.0,Absci,Mature/Public,Healthcare,Portland,USA,45.5202471,-122.674194,2023.0,3.0
+31.0,Beam Benefits,Late Stage,Healthcare,Columbus,USA,39.9622601,-83.0007065,2023.0,1.0
+71.0,23andMe,Mature/Public,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+40.0,Sight Diagnostics,Growth Stage,Healthcare,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+18.0,Opencare,Early Stage,Healthcare,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+40.0,Brave Care,Growth Stage,Healthcare,Portland,USA,45.5202471,-122.674194,2022.0,3.0
+100.0,CareRev,Early Stage,Healthcare,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+170.0,Mojocare,Early Stage,Healthcare,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+16.0,ContraFect,Mature/Public,Healthcare,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+340.0,Sage Therapeutics,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+100.0,10X Genomics,Mature/Public,Healthcare,Pleasanton,USA,37.6624312,-121.8746789,2022.0,3.0
+30.0,TCR2,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+65.0,Repertoire Immunity,Growth Stage,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+67.0,Redesign Health,Growth Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+300.0,Kry,Growth Stage,Healthcare,Stockholm,Sweden,59.3251172,18.0710935,2022.0,4.0
+100.0,Kry,Growth Stage,Healthcare,Stockholm,Sweden,59.3251172,18.0710935,2022.0,2.0
+250.0,Sema4,Mature/Public,Healthcare,Stamford,USA,41.0534302,-73.5387341,2022.0,3.0
+300.0,Teladoc Health,Mature/Public,Healthcare,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+10.0,Forward,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+56.0,Wheel,Growth Stage,Healthcare,Austin,USA,30.2711286,-97.7436995,2023.0,1.0
+90.0,Calm,Growth Stage,Healthcare,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+155.0,Cityblock Health,Growth Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+44.0,Redox,Growth Stage,Healthcare,Madison,USA,43.074761,-89.3837613,2020.0,2.0
+36.0,Plum,Early Stage,Healthcare,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+105.0,Synthego,Late Stage,Healthcare,Menlo Park,USA,37.4519671,-122.177992,2022.0,4.0
+130.0,Quanterix,Mature/Public,Healthcare,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+150.0,Project Ronin,Unknown,Healthcare,San Mateo,USA,37.496904,-122.3330573,2024.0,1.0
+120.0,BioMarin,Mature/Public,Healthcare,San Rafael,USA,37.9747795,-122.5316686,2022.0,4.0
+143.0,Care/of,Mature/Public,Healthcare,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+130.0,Guardant Health,Mature/Public,Healthcare,Palo Alto,USA,37.4443293,-122.1598465,2023.0,1.0
+156.0,Calibrate,Growth Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+20.0,TytoCare,Growth Stage,Healthcare,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+45.0,Examedi,Unknown,Healthcare,Santiago,Chile,-33.4377756,-70.6504502,2023.0,2.0
+200.0,MediBuddy,Mature/Public,Healthcare,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+113.0,Alice,Growth Stage,Healthcare,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+388.0,Chegg,Unknown,Higher Education,Santa Clara,USA,37.354107,-121.955238,2025.0,4.0
+108.0,AccelerEd,Unknown,Higher Education Industry,Bethesda,USA,38.9626279,-77.08155546,2025.0,4.0
+800.0,Vacasa,Unknown,Hospitality,Portland,USA,45.5202471,-122.674194,2024.0,2.0
+400.0,ZipRecruiter,Growth Stage,HR,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+15.0,Triplebyte,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+100.0,Gem,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+64.0,Checkr,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,3.0
+382.0,Checkr,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+140.0,Glassdoor,Mature/Public,HR,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+100.0,Remote,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+300.0,Glassdoor,Mature/Public,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+126.0,Gusto,Late Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+60.0,Workmotion,Growth Stage,HR,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+55.0,When I Work,Growth Stage,HR,Minneapolis,USA,44.9772995,-93.2654692,2020.0,2.0
+86.0,Talent.com,Growth Stage,HR,Montreal,Canada,45.5031824,-73.5698065,2023.0,2.0
+115.0,Personio,Late Stage,HR,Munich,Germany,48.1371079,11.5753822,2024.0,4.0
+60.0,Deputy,Growth Stage,HR,Sydney,Australia,-33.8698439,151.2082848,2020.0,2.0
+5.0,Woven,Early Stage,HR,Indianapolis,USA,39.7683331,-86.1583502,2022.0,3.0
+40.0,Stack Overflow,Growth Stage,HR,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+960.0,LinkedIn,Mature/Public,HR,Sunnyvale,USA,37.3688301,-122.036349,2020.0,3.0
+58.0,Stack Overflow,Mature/Public,HR,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+35.0,Gloat,Growth Stage,HR,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+130.0,Workhuman,Unknown,HR,Dublin,Ireland,53.3493795,-6.2605593,2023.0,1.0
+716.0,LinkedIn,Mature/Public,HR,Sunnyvale,USA,37.3688301,-122.036349,2023.0,2.0
+120.0,Greenhouse,Growth Stage,HR,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+100.0,Greenhouse,Mature/Public,HR,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+660.0,LinkedIn,Mature/Public,HR,Sunnyvale,USA,37.3688301,-122.036349,2023.0,4.0
+2200.0,Indeed,Mature/Public,HR,Austin,USA,30.2711286,-97.7436995,2023.0,1.0
+1000.0,Indeed,Mature/Public,HR,Austin,USA,30.2711286,-97.7436995,2024.0,2.0
+110.0,Namely,Late Stage,HR,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+198.0,Glints,Growth Stage,HR,Singapore,Singapore,1.2899175,103.8519072,2022.0,4.0
+59.0,The Predictive Investment,Mature/Public,HR,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+30.0,Textio,Unknown,HR,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+15.0,Textio,Unknown,HR,Seattle,USA,47.6038321,-122.330062,2023.0,2.0
+14.0,Textio,Unknown,HR,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+14.0,PayScale,Mature/Public,HR,Seattle,USA,47.6038321,-122.330062,2023.0,3.0
+11.0,Compete,Early Stage,HR,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+58.0,Gupy,Growth Stage,HR,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,3.0
+135.0,Andela,Growth Stage,HR,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+18.0,Kenoby,Unknown,HR,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+17.0,Vee,Early Stage,HR,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+16.0,Vee,Early Stage,HR,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+90.0,Eightfold AI,Late Stage,HR,Santa Clara,USA,37.354107,-121.955238,2023.0,1.0
+70.0,Hibob,Early Stage,HR,Tel Aviv,Israel,32.0852997,34.7818064,2020.0,1.0
+25.0,Workable,Growth Stage,HR,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+270.0,ZipRecruiter,Mature/Public,HR,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+200.0,PayFit,Late Stage,HR,Paris,France,48.8588897,2.320041022,2023.0,1.0
+23.0,Dover,Early Stage,HR,San Jose,USA,37.3361663,-121.890591,2022.0,3.0
+1750.0,Workday,Mature/Public,HR,Pleasanton,USA,37.6624312,-121.8746789,2025.0,1.0
+525.0,Workday,Mature/Public,HR,Pleasanton,USA,37.6624312,-121.8746789,2023.0,1.0
+36.0,Hireology,Growth Stage,HR,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+90.0,Culture Amp,Late Stage,HR,Melbourne,Australia,-37.8142454,144.9631732,2023.0,2.0
+39.0,Jobcase,Mature/Public,HR,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+2200.0,UKG,Unknown,HR,Boston,USA,42.3554334,-71.060511,2024.0,3.0
+36.0,Culture Amp,Late Stage,HR,Melbourne,Australia,-37.8142454,144.9631732,2020.0,2.0
+58.0,Envoy,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+35.0,Dynamic Signal,Late Stage,HR,San Bruno,USA,37.6248536,-122.4145986,2020.0,2.0
+35.0,WorkRamp,Growth Stage,HR,San Carlos,USA,37.504936,-122.261823,2022.0,3.0
+54.0,The Mom Project,Growth Stage,HR,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+31.0,Skedulo,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+73.0,Sana Benefits,Growth Stage,HR,Austin,USA,30.2711286,-97.7436995,2023.0,4.0
+86.0,Lever,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+50.0,Built In,Growth Stage,HR,Chicago,USA,41.8755616,-87.6244212,2022.0,4.0
+46.0,Wonolo,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+10.0,PerkSpot,Mature/Public,HR,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+100.0,BetterUp,Late Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+105.0,Lattice,Late Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+16.0,Lattice,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+40.0,Parsable,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+150.0,Atlas,Growth Stage,HR,Chicago,USA,41.8755616,-87.6244212,2023.0,3.0
+87.0,Zenefits,Growth Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+29.0,Plato,Early Stage,HR,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+50.0,Puppet,Late Stage,Infrastructure,Portland,USA,45.5202471,-122.674194,2020.0,1.0
+15.0,Teleport,Growth Stage,Infrastructure,Oakland,USA,37.8044557,-122.271356,2022.0,3.0
+50.0,Megaport,Mature/Public,Infrastructure,Brisbane,Australia,-27.4689682,153.0234991,2023.0,2.0
+5600.0,Cisco,Mature/Public,Infrastructure,San Jose,USA,37.3361663,-121.890591,2024.0,3.0
+30.0,CTO.ai,Early Stage,Infrastructure,Vancouver,Canada,49.2608724,-123.113952,2020.0,1.0
+270.0,Nutanix,Mature/Public,Infrastructure,San Jose,USA,37.3361663,-121.890591,2022.0,3.0
+33.0,ICANN,Unknown,Infrastructure,Los Angeles,USA,34.0536909,-118.242766,2024.0,2.0
+6.0,Atsu,Unknown,Infrastructure,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+34.0,D2iQ,Growth Stage,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+96.0,Pavilion Data,Growth Stage,Infrastructure,San Jose,USA,37.3361663,-121.890591,2022.0,4.0
+200.0,DigitalOcean,Mature/Public,Infrastructure,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+4250.0,Cisco,Mature/Public,Infrastructure,San Jose,USA,37.3361663,-121.890591,2024.0,1.0
+255.0,New Relic,Mature/Public,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+1000.0,Citrix,Mature/Public,Infrastructure,Miami,USA,25.7741728,-80.19362,2024.0,1.0
+95.0,Edgio,Mature/Public,Infrastructure,Phoenix,USA,33.4484367,-112.074141,2022.0,4.0
+110.0,New Relic,Mature/Public,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+80.0,Edgio,Mature/Public,Infrastructure,Phoenix,USA,33.4484367,-112.074141,2024.0,1.0
+40.0,Mux,Growth Stage,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+4100.0,Cisco,Mature/Public,Infrastructure,San Jose,USA,37.3361663,-121.890591,2022.0,4.0
+40.0,BigPanda,Late Stage,Infrastructure,Redwood City,USA,37.4863239,-122.232523,2023.0,2.0
+80.0,Hologram,Growth Stage,Infrastructure,Chicago,USA,41.8755616,-87.6244212,2022.0,2.0
+134.0,Edgio,Mature/Public,Infrastructure,Phoenix,USA,33.4484367,-112.074141,2023.0,2.0
+30.0,Sauce Labs,Unknown,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+160.0,New Relic,Mature/Public,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2021.0,2.0
+40.0,Mux,Growth Stage,Infrastructure,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+23.0,Loop,Early Stage,Insurance,Austin,USA,30.2711286,-97.7436995,2024.0,2.0
+112.0,Assurance,Unknown,Insurance,Seattle,USA,47.6038321,-122.330062,2024.0,2.0
+700.0,Sapiens,Unknown,Insurance Software Solutions,Holon,Israel,32.01832293,34.77142384,2025.0,4.0
+800.0,EXL,Unknown,IT Services,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+150.0,Good Glamm Group,Unknown,IT Services,New Delhi,India,28.6138954,77.2090057,2024.0,2.0
+12000.0,TCS,Unknown,IT Services and IT Consulting,Mumbai,India,19.0785451,72.878176,2025.0,3.0
+130.0,SirionLabs,Growth Stage,Legal,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+24.0,Exterro,Mature/Public,Legal,Portland,USA,45.5202471,-122.674194,2023.0,1.0
+30.0,Lawgeex,Growth Stage,Legal,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+110.0,Notarize,Growth Stage,Legal,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+62.0,CS Disco,Mature/Public,Legal,Austin,USA,30.2711286,-97.7436995,2023.0,1.0
+150.0,OneTrust,Growth Stage,Legal,Atlanta,USA,33.7489924,-84.3902644,2020.0,2.0
+150.0,Relativity,Mature/Public,Legal,Chicago,USA,41.8755616,-87.6244212,2022.0,4.0
+350.0,Porter,Unknown,Logistic,Bengaluru,India,12.98815675,77.62260004,2025.0,4.0
+65.0,uShip,Growth Stage,Logistics,Austin,USA,30.2711286,-97.7436995,2020.0,1.0
+349.0,KeepTruckin,Growth Stage,Logistics,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+60.0,FourKites,Growth Stage,Logistics,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+10.0,Bringg,Growth Stage,Logistics,Tel Aviv,Israel,32.0852997,34.7818064,2020.0,2.0
+50.0,Freightos,Mature/Public,Logistics,Miami,USA,25.7741728,-80.19362,2023.0,3.0
+300.0,Loggi,Late Stage,Logistics,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+130.0,Project44,Unknown,Logistics,Chicago,USA,41.8755616,-87.6244212,2023.0,2.0
+60.0,Shippo,Late Stage,Logistics,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+99.0,Flexe,Growth Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+120.0,Fabric,Growth Stage,Logistics,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+24.0,TranSan Francisco Bay Areaix,Growth Stage,Logistics,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+75.0,Arrive Logistics,Growth Stage,Logistics,Austin,USA,30.2711286,-97.7436995,2020.0,2.0
+500.0,Convoy,Late Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2023.0,4.0
+640.0,Flexport,Late Stage,Logistics,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+30.0,Convoy,Late Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2023.0,2.0
+500.0,Loggi,Late Stage,Logistics,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+59.0,Stord,Growth Stage,Logistics,Atlanta,USA,33.7489924,-84.3902644,2022.0,2.0
+10.0,Swyft,Early Stage,Logistics,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+63.0,Project44,Unknown,Logistics,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+45.0,Flock Freight,Growth Stage,Logistics,San Diego,USA,32.7174202,-117.162772,2023.0,2.0
+60.0,Forto,Growth Stage,Logistics,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+65.0,Veho,Growth Stage,Logistics,Boulder,USA,40.0149856,-105.270545,2024.0,1.0
+27.0,Sendle,Growth Stage,Logistics,Sydney,Australia,-33.8698439,151.2082848,2022.0,3.0
+250.0,FarEye,Late Stage,Logistics,New Delhi,India,28.6138954,77.2090057,2022.0,2.0
+63.0,Pandion,Growth Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2025.0,1.0
+30.0,Sendy,Growth Stage,Logistics,Nairobi,Kenya,-1.2832533,36.8172449,2022.0,3.0
+54.0,Sendy,Growth Stage,Logistics,Nairobi,Kenya,-1.2832533,36.8172449,2022.0,3.0
+30.0,Fabric,Growth Stage,Logistics,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+300.0,Samsara,Late Stage,Logistics,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+90.0,Convoy,Late Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2022.0,2.0
+55.0,GoBolt,Growth Stage,Logistics,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+131.0,Flexe,Growth Stage,Logistics,Seattle,USA,47.6038321,-122.330062,2023.0,3.0
+150.0,Uber Freight,Mature/Public,Logistics,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+50.0,EasyPost,Early Stage,Logistics,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+700.0,Zebra Technologies,Mature/Public,Manufacturing,Chicago,USA,41.8755616,-87.6244212,2023.0,3.0
+70.0,Augury,Late Stage,Manufacturing,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+20.0,Augury,Late Stage,Manufacturing,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+16.0,Inuitive,Unknown,Manufacturing,Ra'anana,Israel,32.1860244,34.8678359,2024.0,3.0
+250.0,ChargePoint,Unknown,Manufacturing,Campbell,USA,37.287167,-121.949959,2024.0,3.0
+60.0,CleverTap,Growth Stage,Marketing,Mumbai,India,19.0785451,72.878176,2020.0,2.0
+35.0,Perion,Mature/Public,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+80.0,Skai,Late Stage,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,4.0
+40.0,Community,Unknown,Marketing,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+50.0,Hootsuite,Growth Stage,Marketing,Vancouver,Canada,49.2608724,-123.113952,2022.0,4.0
+8.0,Voyage SMS,Unknown,Marketing,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+77.0,BounceX,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+13.0,Amperity,Growth Stage,Marketing,Seattle,USA,47.6038321,-122.330062,2022.0,3.0
+30.0,People.ai,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+17.0,Amplero,Growth Stage,Marketing,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+35.0,Perion,Mature/Public,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+48.0,Button,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+40.0,Quantcast,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+300.0,AppLovin,Mature/Public,Marketing,Palo Alto,USA,37.4443293,-122.1598465,2022.0,2.0
+25.0,Namogoo,Growth Stage,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+20.0,Perion,Mature/Public,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+120.0,Integral Ad Science,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+70.0,Integral Ad Science,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+100.0,TripleLift,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+23.0,TripleLift,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+40.0,Innovid,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+100.0,Branch Metrics,Late Stage,Marketing,Palo Alto,USA,37.4443293,-122.1598465,2020.0,2.0
+47.0,Unbounce,Early Stage,Marketing,Vancouver,Canada,49.2608724,-123.113952,2022.0,3.0
+20.0,Namogoo,Growth Stage,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+180.0,Momentive,Mature/Public,Marketing,San Mateo,USA,37.496904,-122.3330573,2022.0,4.0
+500.0,HubSpot,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+21.0,Pocketmath,Unknown,Marketing,Singapore,Singapore,1.2899175,103.8519072,2021.0,1.0
+198.0,Brightcove,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2025.0,1.0
+70.0,Brightcove,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2023.0,2.0
+70.0,Yotpo,Unknown,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+140.0,Criteo,Unknown,Marketing,Paris,France,48.8588897,2.320041022,2024.0,2.0
+90.0,GumGum,Growth Stage,Marketing,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+60.0,TechTarget,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+530.0,GoDaddy,Mature/Public,Marketing,Phoenix,USA,33.4484367,-112.074141,2023.0,1.0
+125.0,Inmobi,Unknown,Marketing,Bengaluru,India,12.98815675,77.62260004,2024.0,1.0
+26.0,Wordstream,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+150.0,OneFootball,Growth Stage,Marketing,Berlin,Germany,52.5170365,13.3888599,2023.0,1.0
+30.0,Quantcast,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+20.0,Crayon,Early Stage,Marketing,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+100.0,Taboola,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+200.0,Wayflyer,Unknown,Marketing,Dublin,Ireland,53.3493795,-6.2605593,2022.0,4.0
+50.0,FullStory,Unknown,Marketing,Atlanta,USA,33.7489924,-84.3902644,2024.0,1.0
+24.0,SundaySky,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+27.0,ShareChat,Growth Stage,Marketing,Bengaluru,India,12.98815675,77.62260004,2025.0,1.0
+9.0,&Open,Early Stage,Marketing,Dublin,Ireland,53.3493795,-6.2605593,2022.0,4.0
+50.0,Showpad,Growth Stage,Marketing,Ghent,Belgium,51.0538286,3.7250121,2024.0,2.0
+105.0,Foursquare,Late Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+130.0,Liftoff,Mature/Public,Marketing,Redwood City,USA,37.4863239,-122.232523,2022.0,4.0
+12.0,PubMatic,Mature/Public,Marketing,Redwood City,USA,37.4863239,-122.232523,2024.0,4.0
+300.0,Sojern,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+100.0,Snappy,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+60.0,Grin,Growth Stage,Marketing,Sacramento,USA,38.5810606,-121.493895,2022.0,4.0
+5.0,DialSource,Growth Stage,Marketing,Sacramento,USA,38.5810606,-121.493895,2020.0,1.0
+40.0,Basis Technologies,Growth Stage,Marketing,Chicago,USA,41.8755616,-87.6244212,2023.0,1.0
+210.0,AdRoll,Growth Stage,Marketing,Salt Lake City,USA,40.7596198,-111.886797,2020.0,1.0
+40.0,VideoAmp,Late Stage,Marketing,Los Angeles,USA,34.0536909,-118.242766,2023.0,3.0
+30.0,ShareChat,Growth Stage,Marketing,Bengaluru,India,12.98815675,77.62260004,2024.0,3.0
+35.0,OpenX,Unknown,Marketing,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+17.0,G2,Growth Stage,Marketing,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+45.0,Hubilo,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+75.0,Metigy,Growth Stage,Marketing,Sydney,Australia,-33.8698439,151.2082848,2022.0,3.0
+4.0,Flytedesk,Early Stage,Marketing,Boulder,USA,40.0149856,-105.270545,2020.0,1.0
+227.0,Hotmart,Growth Stage,Marketing,Belo Horizonte,Brazil,-19.9227318,-43.9450948,2022.0,4.0
+52.0,Showpad,Growth Stage,Marketing,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+130.0,Acxiom,Mature/Public,Marketing,Little Rock,USA,34.73499706,-92.32533203,2025.0,1.0
+70.0,Hootsuite,Growth Stage,Marketing,Vancouver,Canada,49.2608724,-123.113952,2023.0,1.0
+65.0,LiveRamp,Mature/Public,Marketing,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+60.0,Optimizely,Growth Stage,Marketing,San Francisco,USA,37.7792588,-122.4193286,2020.0,3.0
+59.0,Pitch,Growth Stage,Marketing,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+12.0,MVPindex,Growth Stage,Marketing,Austin,USA,30.2711286,-97.7436995,2024.0,1.0
+370.0,Wix,Mature/Public,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+80.0,Permutive,Growth Stage,Marketing,London,UK,51.4893335,-0.144055085,2023.0,2.0
+30.0,Permutive,Growth Stage,Marketing,London,UK,51.4893335,-0.144055085,2022.0,3.0
+101.0,ShareChat,Growth Stage,Marketing,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+19.0,UPshow,Early Stage,Marketing,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+19.0,#Paid,Growth Stage,Marketing,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+35.0,Linkfire,Early Stage,Marketing,Copenhagen,Denmark,55.6867243,12.5700724,2022.0,4.0
+21.0,VideoAmp,Growth Stage,Marketing,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+8.0,LoopMe,Unknown,Marketing,London,UK,51.4893335,-0.144055085,2020.0,2.0
+50.0,Rubicon Project,Mature/Public,Marketing,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+62.0,OneFootball,Growth Stage,Marketing,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+400.0,Cvent,Mature/Public,Marketing,Washington DC,USA,38.8950368,-77.0365427,2020.0,2.0
+31.0,Uberflip,Early Stage,Marketing,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+30.0,Emotive,Growth Stage,Marketing,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+38.0,Outbrain,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+90.0,Outbrain,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+8.0,Captiv8,Unknown,Marketing,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+75.0,Airmeet,Growth Stage,Marketing,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+15.0,Usermind,Growth Stage,Marketing,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+30.0,Lusha,Growth Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+30.0,Skai,Late Stage,Marketing,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+400.0,Hootsuite,Growth Stage,Marketing,Vancouver,Canada,49.2608724,-123.113952,2022.0,3.0
+52.0,OutboundEngine,Growth Stage,Marketing,Austin,USA,30.2711286,-97.7436995,2020.0,1.0
+120.0,Bizzabo,Late Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+100.0,Bizzabo,Late Stage,Marketing,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+53.0,MediaMath,Mature/Public,Marketing,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+100.0,Rock Content,Early Stage,Marketing,Belo Horizonte,Brazil,-19.9227318,-43.9450948,2020.0,2.0
+100.0,Drift,Mature/Public,Marketing,Boston,USA,42.3554334,-71.060511,2023.0,3.0
+100.0,Storytel,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2022.0,1.0
+150.0,VerSe Innovation,Late Stage,Media,Bengaluru,India,12.98815675,77.62260004,2022.0,4.0
+50.0,Minute Media,Late Stage,Media,London,UK,51.4893335,-0.144055085,2023.0,1.0
+51.0,Highsnobiety,Early Stage,Media,Berlin,Germany,52.5170365,13.3888599,2020.0,2.0
+200.0,Spotify,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2023.0,2.0
+75.0,Kaltura,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+360.0,Roku,Mature/Public,Media,San Jose,USA,37.3361663,-121.890591,2023.0,3.0
+30.0,Patreon,Growth Stage,Media,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+80.0,Patreon,Late Stage,Media,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+200.0,Roku,Mature/Public,Media,San Jose,USA,37.3361663,-121.890591,2023.0,1.0
+180.0,BuzzFeed,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+200.0,Roku,Mature/Public,Media,San Jose,USA,37.3361663,-121.890591,2022.0,4.0
+12.0,CNET,Mature/Public,Media,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+60.0,StreamElements,Growth Stage,Media,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,3.0
+46.0,The Athletic,Growth Stage,Media,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+50.0,Axios Media,Mature/Public,Media,Washington DC,USA,38.8950368,-77.0365427,2024.0,3.0
+24.0,Flipboard,Unknown,Media,Palo Alto,USA,37.4443293,-122.1598465,2022.0,4.0
+120.0,SmartNews,Late Stage,Media,Tokyo,Japan,35.6821936,139.762221,2023.0,1.0
+80.0,Storytel,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2024.0,1.0
+36.0,Humble Games,Mature/Public,Media,San Francisco,USA,37.7792588,-122.4193286,2024.0,3.0
+87.0,Outside,Growth Stage,Media,Boulder,USA,40.0149856,-105.270545,2022.0,2.0
+39.0,Vox Media,Late Stage,Media,Washington DC,USA,38.8950368,-77.0365427,2022.0,3.0
+26.0,TheSkimm,Growth Stage,Media,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+42.0,Wattpad,Mature/Public,Media,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+50.0,Pocket Aces,Unknown,Media,Mumbai,India,19.0785451,72.878176,2023.0,1.0
+17.0,TheSkimm,Growth Stage,Media,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+20.0,Wattpad,Mature/Public,Media,Toronto,Canada,43.6534817,-79.3839347,2024.0,1.0
+31.0,Maven,Mature/Public,Media,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+180.0,BuzzFeed,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+40.0,StreamElements,Growth Stage,Media,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+22.0,TheSkimm,Growth Stage,Media,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+24.0,Bustle Digital Group,Late Stage,Media,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+475.0,SiriusXM,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+13.0,Substack,Growth Stage,Media,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+23.0,Legible,Mature/Public,Media,Vancouver,Canada,49.2608724,-123.113952,2022.0,2.0
+95.0,Culture Trip,Growth Stage,Media,London,UK,51.4893335,-0.144055085,2020.0,2.0
+11.0,Deadspin,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+1000.0,Redbox,Mature/Public,Media,Chicago,USA,41.8755616,-87.6244212,2024.0,3.0
+48.0,Chingari,Unknown,Media,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+130.0,Vox Media,Late Stage,Media,Washington DC,USA,38.8950368,-77.0365427,2023.0,1.0
+50.0,Group Nine Media,Unknown,Media,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+14.0,OpenWeb,Late Stage,Media,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,2.0
+300.0,Netflix,Mature/Public,Media,Los Gatos,USA,37.226611,-121.9746797,2022.0,2.0
+56.0,Wave Sports and Entertainment,Growth Stage,Media,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+600.0,Spotify,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2023.0,1.0
+150.0,Netflix,Mature/Public,Media,Los Gatos,USA,37.226611,-121.9746797,2022.0,2.0
+100.0,Audible,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+37.0,Plex,Unknown,Media,Campbell,USA,37.287167,-121.949959,2023.0,2.0
+1500.0,Spotify,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2023.0,4.0
+24.0,Highsnobiety,Mature/Public,Media,Berlin,Germany,52.5170365,13.3888599,2023.0,3.0
+30.0,Overtime,Growth Stage,Media,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+40.0,Cloudinary,Unknown,Media,Santa Clara,USA,37.354107,-121.955238,2022.0,4.0
+160.0,SiriusXM,Mature/Public,Media,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+70.0,Acast,Mature/Public,Media,Stockholm,Sweden,59.3251172,18.0710935,2022.0,3.0
+14000.0,Tesla,Unknown,Motor Vehicle Manufacturing,Austin,USA,30.2711286,-97.7436995,2024.0,2.0
+500.0,Infarm,Growth Stage,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+579.0,Thoughtworks,Mature/Public,Other,Chicago,USA,41.8755616,-87.6244212,2023.0,3.0
+500.0,Thoughtworks,Mature/Public,Other,Chicago,USA,41.8755616,-87.6244212,2023.0,1.0
+30.0,Submittable,Growth Stage,Other,Missoula,USA,46.8701049,-113.995267,2020.0,2.0
+62.0,Element AI,Growth Stage,Other,Montreal,Canada,45.5031824,-73.5698065,2020.0,2.0
+50.0,Symend,Growth Stage,Other,Calgary,Canada,51.0456064,-114.057541,2023.0,1.0
+90.0,Workato,Late Stage,Other,Mountain View,USA,37.3893889,-122.0832101,2023.0,1.0
+137.0,Benevity,Unknown,Other,Calgary,Canada,51.0456064,-114.057541,2023.0,1.0
+170.0,View,Mature/Public,Other,Mountain View,USA,37.3893889,-122.0832101,2023.0,2.0
+200.0,Beam,Unknown,Other,Bristol,United Kingdom,51.4538022,-2.5972985,2025.0,2.0
+13.0,Consider.co,Early Stage,Other,Mountain View,USA,37.3893889,-122.0832101,2020.0,1.0
+15.0,GenWise,Early Stage,Other,New Delhi,India,28.6138954,77.2090057,2025.0,2.0
+100.0,Vendr,Growth Stage,Other,Boston,USA,42.3554334,-71.060511,2023.0,2.0
+141.0,Electric,Growth Stage,Other,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+43.0,Chief,Growth Stage,Other,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+420.0,UIPath,Mature/Public,Other,New York City,USA,40.7127281,-74.0060152,2024.0,3.0
+80.0,LeafLink,Growth Stage,Other,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+150.0,AlphaSense,Late Stage,Other,New York City,USA,40.7127281,-74.0060152,2024.0,4.0
+60.0,Similarweb,Mature/Public,Other,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+120.0,Similarweb,Mature/Public,Other,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+30.0,Salto,Growth Stage,Other,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,2.0
+260.0,WeTransfer,Mature/Public,Other,Amsterdam,Netherlands,52.3730796,4.8924534,2024.0,3.0
+3000.0,SAP,Mature/Public,Other,Walldorf,Germany,49.3038134,8.6433518,2023.0,1.0
+8000.0,SAP,Mature/Public,Other,Walldorf,Germany,49.3038134,8.6433518,2024.0,1.0
+23.0,Tonkean,Growth Stage,Other,Palo Alto,USA,37.4443293,-122.1598465,2022.0,2.0
+10.0,Slite,Early Stage,Other,Paris,France,48.8588897,2.320041022,2023.0,1.0
+350.0,Meero,Growth Stage,Other,Paris,France,48.8588897,2.320041022,2022.0,2.0
+80.0,AudioCodes,Mature/Public,Other,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,3.0
+90.0,Digimarc,Mature/Public,Other,Portland,USA,45.5202471,-122.674194,2025.0,1.0
+28.0,Torii,Growth Stage,Other,Ra'anana,Israel,32.1860244,34.8678359,2023.0,2.0
+100.0,Starry,Mature/Public,Other,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+80.0,AudioCodes,Mature/Public,Other,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,2.0
+780.0,Qualtrics,Mature/Public,Other,Salt Lake City,USA,40.7596198,-111.886797,2023.0,4.0
+270.0,Qualtrics,Mature/Public,Other,Salt Lake City,USA,40.7596198,-111.886797,2023.0,1.0
+75.0,Lucid Software,Late Stage,Other,Salt Lake City,USA,40.7596198,-111.886797,2023.0,3.0
+50.0,American Robotics,Mature/Public,Other,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+60.0,ClickUp,Growth Stage,Other,San Diego,USA,32.7174202,-117.162772,2022.0,2.0
+90.0,ClickUp,Growth Stage,Other,San Diego,USA,32.7174202,-117.162772,2023.0,2.0
+300.0,Viasat,Mature/Public,Other,San Diego,USA,32.7174202,-117.162772,2023.0,2.0
+800.0,Viasat,Mature/Public,Other,San Diego,USA,32.7174202,-117.162772,2023.0,4.0
+180.0,Asana,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+112.0,WalkMe,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+43.0,WalkMe,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+1350.0,Autodesk,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+281.0,Automattic,Late Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2025.0,2.0
+281.0,Automattic,Late Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+74.0,Benchling,Late Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+20.0,Atera,Growth Stage,Other,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,4.0
+137.0,Upwork,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+1800.0,Unity,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+284.0,Unity,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+265.0,Unity,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+600.0,Unity,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+200.0,Unity,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+400.0,Pico Interactive,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+25.0,ResearchGate,Growth Stage,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+800.0,Twilio,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+1500.0,Twilio,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+18.0,Lendis,Early Stage,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+115.0,Hubilo,Growth Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+50.0,Q4,Growth Stage,Other,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+50.0,Infarm,Growth Stage,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+80.0,Pitch,Growth Stage,Other,Berlin,Germany,52.5170365,13.3888599,2024.0,1.0
+18.0,Rows,Growth Stage,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,2.0
+35.0,WeTranSan Francisco Bay Areaer,Early Stage,Other,Amsterdam,Netherlands,52.3730796,4.8924534,2023.0,4.0
+200.0,Planetly,Mature/Public,Other,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+119.0,Miro,Growth Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+275.0,Miro,Growth Stage,Other,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+34.0,TealBook,Growth Stage,Other,Toronto,Canada,43.6534817,-79.3839347,2022.0,4.0
+315.0,Dropbox,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2021.0,1.0
+527.0,Dropbox,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+500.0,Dropbox,Mature/Public,Other,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+300.0,Tekion,Growth Stage,Other,Bengaluru,India,12.98815675,77.62260004,2023.0,3.0
+90.0,MessageBird,Growth Stage,Other,Amsterdam,Netherlands,52.3730796,4.8924534,2024.0,1.0
+150.0,Zoom,Mature/Public,Other,San Jose,USA,37.3361663,-121.890591,2024.0,1.0
+260.0,Automation Anything,Growth Stage,Other,San Jose,USA,37.3361663,-121.890591,2020.0,2.0
+1300.0,Zoom,Mature/Public,Other,San Jose,USA,37.3361663,-121.890591,2023.0,1.0
+13.0,Fable,Early Stage,Other,Toronto,Canada,43.6534817,-79.3839347,2023.0,3.0
+200.0,SoundHound,Mature/Public,Other,Santa Clara,USA,37.354107,-121.955238,2023.0,1.0
+45.0,SoundHound,Mature/Public,Other,Santa Clara,USA,37.354107,-121.955238,2022.0,4.0
+70.0,Calendly,Growth Stage,Other,Atlanta,USA,33.7489924,-84.3902644,2024.0,4.0
+50.0,Unico,Growth Stage,Other,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+110.0,Unico,Growth Stage,Other,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+120.0,MessageBird,Growth Stage,Other,Amsterdam,Netherlands,52.3730796,4.8924534,2025.0,1.0
+200.0,MyGate,Growth Stage,Other,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+50.0,Dutchie,Growth Stage,Other,Bend,USA,44.0581728,-121.3153096,2022.0,2.0
+6000.0,Microsoft,Mature/Public,Other,Seattle,USA,47.6038321,-122.330062,2025.0,2.0
+50.0,Impinj,Mature/Public,Other,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+9000.0,Microsoft,Mature/Public,Other,Seattle,USA,47.6038321,-122.330062,2025.0,3.0
+305.0,Microsoft,Mature/Public,Other,Seattle,USA,47.6038321,-122.330062,2025.0,2.0
+85.0,Smartsheet,Mature/Public,Other,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+60.0,Calendly,Growth Stage,Other,Atlanta,USA,33.7489924,-84.3902644,2023.0,3.0
+8500.0,Ericsson,Mature/Public,Other,Stockholm,Sweden,59.3251172,18.0710935,2023.0,1.0
+76.0,Lokalise,Growth Stage,Other,Dover,USA,39.158168,-75.5243682,2022.0,4.0
+8.0,Kinde,Early Stage,Other,Sydney,Australia,-33.8698439,151.2082848,2023.0,1.0
+50.0,Jimdo,Unknown,Other,Hamburg,Germany,53.550341,10.000654,2022.0,4.0
+35.0,Monarch Tractor,Unknown,Other,Livermore,USA,37.68402337,-121.7712919,2024.0,4.0
+500.0,Atlassian,Mature/Public,Other,Sydney,Australia,-33.8698439,151.2082848,2023.0,1.0
+138.0,Hopin,Growth Stage,Other,London,UK,51.4893335,-0.144055085,2022.0,1.0
+242.0,Hopin,Growth Stage,Other,London,UK,51.4893335,-0.144055085,2022.0,3.0
+30.0,Zencity,Unknown,Other,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+60.0,Fiverr,Mature/Public,Other,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+237.0,Airtable,Late Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+130.0,GitLab,Mature/Public,Product,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+48.0,Netlify,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+100.0,Bryter,Growth Stage,Product,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+18.0,Glitch,Early Stage,Product,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+20.0,Xentral,Growth Stage,Product,Munich,Germany,48.1371079,11.5753822,2022.0,4.0
+21.0,Gitpod,Early Stage,Product,Kiel,Germany,54.3227085,10.135555,2023.0,1.0
+23.0,Stedi,Growth Stage,Product,Boulder,USA,40.0149856,-105.270545,2022.0,3.0
+80.0,Nylas,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+90.0,Mural,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+12.0,Jama,Unknown,Product,Portland,USA,45.5202471,-122.674194,2020.0,1.0
+18.0,Incredibuild,Mature/Public,Product,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,4.0
+45.0,Pendo,Late Stage,Product,Raleigh,USA,35.7803977,-78.6390989,2022.0,3.0
+100.0,Pendo,Late Stage,Product,Raleigh,USA,35.7803977,-78.6390989,2023.0,2.0
+6.0,Dark,Early Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+24.0,Sourcegraph,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+37.0,Zeplin,Early Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+23.0,Loom,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+34.0,Loom,Growth Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+150.0,OutSystems,Late Stage,Product,Boston,USA,42.3554334,-71.060511,2024.0,2.0
+40.0,Incredibuild,Growth Stage,Product,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,4.0
+20.0,Stream,Growth Stage,Product,Boulder,USA,40.0149856,-105.270545,2022.0,2.0
+254.0,Airtable,Late Stage,Product,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+39.0,Builder,Early Stage,Product,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+90.0,Industrious,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+45.0,Zumper,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+300.0,Flyhomes,Growth Stage,Real Estate,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+100.0,Pacaso,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+28.0,Cadre,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+862.0,Redfin,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+82.0,Redfin,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2024.0,3.0
+32.0,Loftium,Early Stage,Real Estate,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+201.0,Redfin,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2023.0,2.0
+470.0,Redfin,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2022.0,2.0
+130.0,Blueground,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+200.0,Flyhomes,Growth Stage,Real Estate,Seattle,USA,47.6038321,-122.330062,2022.0,3.0
+115.0,Knock,Unknown,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+127.0,Knotel,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+20.0,Knotel,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,4.0
+300.0,Zillow,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+40.0,Homeday,Unknown,Real Estate,Berlin,Germany,52.5170365,13.3888599,2023.0,3.0
+119.0,Homie,Growth Stage,Real Estate,Salt Lake City,USA,40.7596198,-111.886797,2022.0,1.0
+40.0,Homie,Growth Stage,Real Estate,Salt Lake City,USA,40.7596198,-111.886797,2022.0,4.0
+149.0,AppFolio,Mature/Public,Real Estate,Santa Barbara,USA,34.4221319,-119.702667,2023.0,3.0
+61.0,Point,Growth Stage,Real Estate,Palo Alto,USA,37.4443293,-122.1598465,2023.0,3.0
+140.0,Reali,Growth Stage,Real Estate,San Mateo,USA,37.496904,-122.3330573,2022.0,3.0
+24.0,CrowdStreet,Growth Stage,Real Estate,Portland,USA,45.5202471,-122.674194,2020.0,2.0
+40.0,Divvy Homes,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+260.0,RealPage,Mature/Public,Real Estate,Dallas,USA,32.7762719,-96.7968559,2024.0,2.0
+100.0,WeWork,Late Stage,Real Estate,New Delhi,India,28.6138954,77.2090057,2020.0,2.0
+40.0,Eden / Managed …,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+100.0,Veev,Growth Stage,Real Estate,Hayward,USA,37.6688205,-122.080796,2022.0,4.0
+80.0,Zeus Living,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+64.0,Zeus Living,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+73.0,Zeus Living,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+18.0,Homebot,Mature/Public,Real Estate,Denver,USA,39.7392364,-104.984862,2022.0,4.0
+39.0,Kiavi,Late Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+41.0,Peerspace,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+170.0,Ribbon,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+57.0,Rhino,Unknown,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+120.0,Breather,Growth Stage,Real Estate,Montreal,Canada,45.5031824,-73.5698065,2020.0,4.0
+150.0,Convene,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+450.0,Compass,Mature/Public,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+271.0,Compass,Mature/Public,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+375.0,Compass,Late Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+312.0,Loft,Unknown,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+384.0,Loft,Unknown,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+20.0,RealPage,Mature/Public,Real Estate,Dallas,USA,32.7762719,-96.7968559,2024.0,2.0
+2000.0,Zillow,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2021.0,4.0
+29.0,Apartment List,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+20.0,JetClosing,Early Stage,Real Estate,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+600.0,Opendoor,Late Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+300.0,Opendoor,Mature/Public,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+550.0,Opendoor,Mature/Public,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+560.0,Opendoor,Mature/Public,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+236.0,Redfin,Mature/Public,Real Estate,Seattle,USA,47.6038321,-122.330062,2020.0,2.0
+3000.0,Better.com,Unknown,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,1.0
+30.0,Lev,Growth Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+900.0,Better.com,Unknown,Real Estate,New York City,USA,40.7127281,-74.0060152,2021.0,4.0
+25.0,Loftsmart,Early Stage,Real Estate,New York City,USA,40.7127281,-74.0060152,2020.0,1.0
+160.0,QuintoAndar,Late Stage,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+40.0,Archipelago,Growth Stage,Real Estate,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+88.0,QuintoAndar,Growth Stage,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+47.0,Loft,Growth Stage,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2020.0,2.0
+340.0,Loft,Unknown,Real Estate,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+202.0,LinkedIn,Mature/Public,Recruiting,Sunnyvale,USA,37.3688301,-122.036349,2024.0,4.0
+200.0,CareerBuilder + Monster,Mature/Public,Recruiting,Chicago,USA,41.8755616,-87.6244212,2024.0,4.0
+45.0,Airtasker,Growth Stage,Retail,Sydney,Australia,-33.8698439,151.2082848,2023.0,2.0
+147.0,Minted,Late Stage,Retail,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+1100.0,Flipkart,Mature/Public,Retail,Bengaluru,India,12.98815675,77.62260004,2024.0,1.0
+730.0,Wayfair,Mature/Public,Retail,Berlin,Germany,52.5170365,13.3888599,2025.0,1.0
+100.0,Berlin Brands Group,Unknown,Retail,Berlin,Germany,52.5170365,13.3888599,2022.0,2.0
+250.0,B8ta,Growth Stage,Retail,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+150.0,Wish,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+60.0,ON,Unknown,Retail,San Francisco,USA,37.7792588,-122.4193286,2024.0,3.0
+56.0,Dukaan,Early Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+100.0,DealShare,Late Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+190.0,Wish,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2022.0,1.0
+255.0,Wish,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+2800.0,Groupon,Mature/Public,Retail,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+100.0,Heureka Group,Mature/Public,Retail,Prague,Czech Republic,50.0874654,14.4212535,2024.0,2.0
+250.0,Faire,Late Stage,Retail,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+84.0,Faire,Late Stage,Retail,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+330.0,Stitch Fix,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+1400.0,Stitch Fix,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+300.0,Trell,Growth Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2022.0,1.0
+30.0,Everlane,Unknown,Retail,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+13.0,Syte,Growth Stage,Retail,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+230.0,ManoMano,Late Stage,Retail,Paris,France,48.8588897,2.320041022,2023.0,4.0
+93.0,Back Market,Late Stage,Retail,Paris,France,48.8588897,2.320041022,2022.0,4.0
+180.0,Udaan,Unknown,Retail,Bengaluru,India,12.98815675,77.62260004,2022.0,2.0
+20.0,Tamara Mellon,Growth Stage,Retail,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+180.0,BigCommerce,Mature/Public,Retail,Austin,USA,30.2711286,-97.7436995,2022.0,4.0
+669.0,Deliv,Growth Stage,Retail,Menlo Park,USA,37.4519671,-122.177992,2020.0,2.0
+100.0,Udaan,Unknown,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,4.0
+87.0,Buy.com,Mature/Public,Retail,San Mateo,USA,37.496904,-122.3330573,2020.0,3.0
+21.0,BlissClub,Early Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2024.0,1.0
+130.0,BeepKart,Early Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2024.0,4.0
+450.0,Livspace,Growth Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+2300.0,Shopify,Mature/Public,Retail,Ottawa,Canada,45.4208777,-75.6901106,2023.0,2.0
+100.0,Livspace,Late Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+60.0,Omuni,Mature/Public,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,3.0
+1000.0,Shopify,Mature/Public,Retail,Ottawa,Canada,45.4208777,-75.6901106,2022.0,3.0
+31.0,Enjoei,Unknown,Retail,Sao Paulo,Brazil,-23.5506507,-46.6333824,2023.0,1.0
+50.0,Mejuri,Growth Stage,Retail,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+36.0,Mejuri,Growth Stage,Retail,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+60.0,Salsify,Growth Stage,Retail,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+260.0,Facily,Growth Stage,Retail,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+200.0,Meesho,Growth Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+200.0,VTEX,Mature/Public,Retail,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,2.0
+225.0,Etsy,Mature/Public,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,4.0
+90.0,Salsify,Late Stage,Retail,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+70.0,Redbubble,Mature/Public,Retail,Melbourne,Australia,-37.8142454,144.9631732,2023.0,2.0
+70.0,Boozt,Mature/Public,Retail,Malmö,Sweden,55.6052931,13.0001566,2022.0,2.0
+35.0,Artsy,Growth Stage,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+251.0,Meesho,Late Stage,Retail,Bengaluru,India,12.98815675,77.62260004,2023.0,2.0
+60.0,Away,Growth Stage,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+22.0,Away,Growth Stage,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+168.0,Drizly,Mature/Public,Retail,Boston,USA,42.3554334,-71.060511,2024.0,1.0
+100.0,Fetch,Late Stage,Retail,Madison,USA,43.074761,-89.3837613,2023.0,1.0
+56.0,Leafly,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+40.0,Leafly,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+91.0,Leafly,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2020.0,1.0
+839.0,Zulily,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2023.0,4.0
+39.0,Goop,Unknown,Retail,Los Angeles,USA,34.0536909,-118.242766,2024.0,3.0
+138.0,Packable,Unknown,Retail,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+8000.0,Amazon,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+150.0,Amazon,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+10000.0,Amazon,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2022.0,4.0
+9000.0,Amazon,Mature/Public,Retail,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+500.0,Groupon,Mature/Public,Retail,Chicago,USA,41.8755616,-87.6244212,2022.0,3.0
+32.0,Boxed,Mature/Public,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+3.0,Branch,Early Stage,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+20.0,Karma,Early Stage,Retail,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,2.0
+55.0,Pomelo Fashion,Unknown,Retail,Bangkok,Thailand,13.7524938,100.4935089,2022.0,3.0
+100.0,Lazada Group,Mature/Public,Retail,Singapore,Singapore,1.2899175,103.8519072,2024.0,1.0
+78.0,Casper,Mature/Public,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+100.0,Zilingo,Growth Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2020.0,3.0
+44.0,Zilingo,Growth Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2020.0,2.0
+100.0,Trax,Late Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2022.0,2.0
+195.0,ShopBack,Late Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2024.0,1.0
+40.0,The Grommet,Mature/Public,Retail,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+110.0,Carousell,Mature/Public,Retail,Singapore,Singapore,1.2899175,103.8519072,2022.0,4.0
+40.0,Moglix,Late Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2023.0,1.0
+80.0,Trax,Late Stage,Retail,Singapore,Singapore,1.2899175,103.8519072,2022.0,4.0
+20.0,The Sill,Early Stage,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+76.0,Carousell,Unknown,Retail,Singapore,Singapore,1.2899175,103.8519072,2024.0,4.0
+25.0,Cart.com,Unknown,Retail,Austin,USA,30.2711286,-97.7436995,2023.0,1.0
+30.0,Worksmith,Unknown,Retail,Austin,USA,30.2711286,-97.7436995,2020.0,4.0
+24.0,Hodinkee,Early Stage,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+30.0,Nate,Early Stage,Retail,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+37.0,Rent the Runway,Mature/Public,Retail,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+70.0,1stdibs,Growth Stage,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+40.0,Riskified,Mature/Public,Retail,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+19.0,Glossier,Late Stage,Retail,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+150.0,Glossier,Growth Stage,Retail,New York City,USA,40.7127281,-74.0060152,2020.0,3.0
+70.0,Involves,Unknown,Retail,Florianopolis,Brazil,-27.5973002,-48.5496098,2022.0,3.0
+200.0,Emma Sleep,Mature/Public,Retail,Frankfurt am Main,Germany,50.1106444,8.6820917,2024.0,2.0
+200.0,Emma Sleep,Mature/Public,Retail,Frankfurt am Main,Germany,50.1106444,8.6820917,2024.0,2.0
+120.0,StockX,Late Stage,Retail,Detroit,USA,42.3315509,-83.0466403,2022.0,2.0
+30.0,Trigo,Growth Stage,Retail,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,1.0
+100.0,StockX,Growth Stage,Retail,Detroit,USA,42.3315509,-83.0466403,2020.0,2.0
+100.0,Saks.com,Unknown,Retail,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+1650.0,Wayfair,Mature/Public,Retail,Boston,USA,42.3554334,-71.060511,2024.0,1.0
+20.0,Shipsi,Early Stage,Retail,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+23.0,GoSpotCheck,Growth Stage,Retail,Denver,USA,39.7392364,-104.984862,2020.0,1.0
+191.0,CityMall,Growth Stage,Retail,Gurugram,India,28.4646148,77.0299194,2022.0,2.0
+25.0,UpScalio,Growth Stage,Retail,Gurugram,India,28.4646148,77.0299194,2023.0,1.0
+870.0,Wayfair,Mature/Public,Retail,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+1750.0,Wayfair,Mature/Public,Retail,Boston,USA,42.3554334,-71.060511,2023.0,1.0
+250.0,Swappie,Growth Stage,Retail,Helsinki,Finland,60.1674881,24.9427473,2022.0,2.0
+60.0,Finder,Unknown,Retail,Sydney,Australia,-33.8698439,151.2082848,2024.0,1.0
+134.0,Ula,Growth Stage,Retail,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+200.0,JD.ID,Mature/Public,Retail,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+160.0,SIRCLO,Growth Stage,Retail,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+150.0,The Good Glamour,Unknown,Retail,New Delhi,India,28.6138954,77.2090057,2024.0,2.0
+87.0,Ibotta,Growth Stage,Retail,Denver,USA,39.7392364,-104.984862,2020.0,2.0
+65.0,Chrono24,Growth Stage,Retail,Karlsruhe,Germany,49.0068705,8.4034195,2023.0,1.0
+110.0,Chrono24,Growth Stage,Retail,Karlsruhe,Germany,49.0068705,8.4034195,2025.0,1.0
+70.0,Ibotta,Mature/Public,Retail,Denver,USA,39.7392364,-104.984862,2025.0,1.0
+50.0,iPrice Group,Unknown,Retail,Kuala Lumpur,Malaysia,3.1516964,101.6942371,2022.0,2.0
+900.0,Jumia,Mature/Public,Retail,Lagos,Nigeria,6.4550575,3.3941795,2022.0,4.0
+350.0,Copia,Growth Stage,Retail,Nairobi,Kenya,-1.2832533,36.8172449,2023.0,3.0
+50.0,Sabi,Growth Stage,Retail,Lagos,Nigeria,6.4550575,3.3941795,2025.0,2.0
+54.0,Marketforce,Early Stage,Retail,Nairobi,Kenya,-1.2832533,36.8172449,2022.0,3.0
+120.0,Trax,Growth Stage,Retail,Tel Aviv,Israel,32.0852997,34.7818064,2020.0,2.0
+200.0,Shop101,Growth Stage,Retail,Mumbai,India,19.0785451,72.878176,2020.0,2.0
+60.0,MadeiraMadeira,Late Stage,Retail,Curitiba,Brazil,-25.4295963,-49.2712724,2022.0,3.0
+79.0,Trendsales,Mature/Public,Retail,Copenhagen,Denmark,55.6867243,12.5700724,2024.0,2.0
+30.0,Thread,Mature/Public,Retail,London,UK,51.4893335,-0.144055085,2022.0,4.0
+55.0,Tails.com,Early Stage,Retail,London,UK,51.4893335,-0.144055085,2024.0,1.0
+2000.0,Farfetch,Mature/Public,Retail,London,UK,51.4893335,-0.144055085,2024.0,1.0
+400.0,Enjoy,Mature/Public,Retail,Mountain View,USA,37.3893889,-122.0832101,2022.0,2.0
+24.0,Heroes,Unknown,Retail,London,UK,51.4893335,-0.144055085,2022.0,3.0
+400.0,AliExpress Russia,Mature/Public,Retail,Moscow,Russia,55.7505412,37.6174782,2022.0,2.0
+280.0,Lightspeed Commerce,Mature/Public,Retail,Montreal,Canada,45.5031824,-73.5698065,2024.0,2.0
+300.0,Lightspeed Company,Mature/Public,Retail,Montreal,Canada,45.5031824,-73.5698065,2023.0,1.0
+50.0,Lyst,Unknown,Retail,London,UK,51.4893335,-0.144055085,2022.0,4.0
+30.0,Bonsai,Early Stage,Retail,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+65.0,ThirdLove,Growth Stage,Retail,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+230.0,The RealReal,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+235.0,The RealReal,Mature/Public,Retail,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+29.0,Bonsai,Early Stage,Retail,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+45.0,Hubba,Growth Stage,Retail,Toronto,Canada,43.6534817,-79.3839347,2021.0,1.0
+60.0,Dropp,Unknown,Retail,Berlin,Germany,52.5170365,13.3888599,2023.0,1.0
+48.0,Shogun,Growth Stage,Retail,Walnut,USA,37.910076,-122.065186,2022.0,3.0
+40.0,Grover,Unknown,Retail,Berlin,Germany,52.5170365,13.3888599,2022.0,4.0
+45.0,Kissflow,Unknown,SaaS,Chennai,India,13.0836939,80.270186,2024.0,2.0
+80.0,Gong,Late Stage,Sales,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+12.0,Tome,Growth Stage,Sales,San Francisco,USA,37.7792588,-122.4193286,2024.0,4.0
+1000.0,Salesforce,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+85.0,Klue,Growth Stage,Sales,Vancouver,USA,49.2608724,-123.113952,2025.0,2.0
+150.0,6sense,Late Stage,Sales,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+100.0,Salesloft,Mature/Public,Sales,Atlanta,USA,33.7489924,-84.3902644,2023.0,1.0
+700.0,Salesforce,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+140.0,Bullhorn,Mature/Public,Sales,Boston,USA,42.3554334,-71.060511,2023.0,4.0
+51.0,Mercos,Unknown,Sales,Joinville,Brazil,-26.3044898,-48.8486726,2020.0,2.0
+143.0,Pipedrive,Mature/Public,Sales,Tallinn,Estonia,59.4372155,24.7453688,2022.0,4.0
+8000.0,SaleSan Francisco Bay Areaorce,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+1000.0,SaleSan Francisco Bay Areaorce,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+15.0,Forma.ai,Growth Stage,Sales,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+70.0,Outreach,Late Stage,Sales,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+100.0,Highspot,Late Stage,Sales,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+140.0,Highspot,Late Stage,Sales,Seattle,USA,47.6038321,-122.330062,2023.0,2.0
+671.0,DocuSign,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+221.0,ServiceTitan,Late Stage,Sales,Los Angeles,USA,34.0536909,-118.242766,2023.0,1.0
+440.0,DocuSign,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+680.0,DocuSign,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+120.0,Khoros,Mature/Public,Sales,Austin,USA,30.2711286,-97.7436995,2022.0,4.0
+11.0,Loopio,Early Stage,Sales,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+120.0,ZoomInfo,Mature/Public,Sales,Vancouver,Canada,49.2608724,-123.113952,2023.0,2.0
+60.0,Outreach,Late Stage,Sales,Seattle,USA,47.6038321,-122.330062,2022.0,3.0
+40.0,Impact.com,Mature/Public,Sales,Los Angeles,USA,34.0536909,-118.242766,2024.0,1.0
+31.0,CaptivateIQ,Growth Stage,Sales,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+27.0,Demandbase,Late Stage,Sales,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+1000.0,SaleSan Francisco Bay Areaorce,Mature/Public,Sales,San Francisco,USA,37.7792588,-122.4193286,2020.0,3.0
+15.0,Walnut,Growth Stage,Sales,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+150.0,ZoomInfo,Mature/Public,Sales,Vancouver,USA,49.2608724,-123.113952,2025.0,2.0
+37.0,Springbig,Mature/Public,Sales,Miami,USA,25.7741728,-80.19362,2022.0,4.0
+70.0,Dealtale,Mature/Public,Sales,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,3.0
+57.0,Introhive,Growth Stage,Sales,Ferdericton,Canada,45.964993,-66.646332,2022.0,3.0
+17.0,Crossbeam,Growth Stage,Sales,Philadelphia,USA,39.9527237,-75.1635262,2023.0,1.0
+40.0,PartnerStack,Growth Stage,Sales,Toronto,Canada,43.6534817,-79.3839347,2023.0,1.0
+300.0,Skybox Security,Mature/Public,Security,San Jose,USA,37.3361663,-121.890591,2025.0,1.0
+30.0,Latch,Mature/Public,Security,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+470.0,Rapid7,Mature/Public,Security,Boston,USA,42.3554334,-71.060511,2023.0,3.0
+177.0,Zscaler,Mature/Public,Security,San Jose,USA,37.3361663,-121.890591,2023.0,1.0
+30.0,Deepwatch,Growth Stage,Security,Tampa Bay,USA,27.6886419,-82.5723193,2023.0,3.0
+30.0,CyCognito,Growth Stage,Security,Palo Alto,USA,37.4443293,-122.1598465,2022.0,4.0
+100.0,ForeScout,Mature/Public,Security,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+170.0,OwnBackup,Late Stage,Security,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+20.0,InfoSum,Growth Stage,Security,London,UK,51.4893335,-0.144055085,2022.0,4.0
+212.0,SecureWorks,Mature/Public,Security,Atlanta,USA,33.7489924,-84.3902644,2023.0,1.0
+16.0,Finite State,Growth Stage,Security,Columbus,USA,39.9622601,-83.0007065,2022.0,2.0
+27.0,At-Bay,Unknown,Security,San Francisco,USA,37.7792588,-122.4193286,2023.0,3.0
+300.0,Okta,Mature/Public,Security,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+19.0,AU10TIX,Unknown,Security,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+101.0,Veriff,Growth Stage,Security,Tallinn,Estonia,59.4372155,24.7453688,2023.0,3.0
+950.0,OneTrust,Growth Stage,Security,Atlanta,USA,33.7489924,-84.3902644,2022.0,2.0
+22.0,Pipl,Unknown,Security,Spokane,USA,47.6571934,-117.42351,2022.0,2.0
+25.0,Armis,Mature/Public,Security,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+24.0,Aqua Security,Growth Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2020.0,2.0
+40.0,Drata,Growth Stage,Security,San Diego,USA,32.7174202,-117.162772,2024.0,3.0
+300.0,Lacework,Growth Stage,Security,Mountain View,USA,37.3893889,-122.0832101,2022.0,2.0
+290.0,Akamai,Mature/Public,Security,Boston,USA,42.3554334,-71.060511,2023.0,2.0
+100.0,Jumpcloud,Late Stage,Security,Boulder,USA,40.0149856,-105.270545,2023.0,1.0
+60.0,Expel,Late Stage,Security,Washington DC,USA,38.8950368,-77.0365427,2023.0,2.0
+280.0,Proofpoint,Mature/Public,Security,Sunnyvale,USA,37.3688301,-122.036349,2024.0,1.0
+130.0,Latch,Mature/Public,Security,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+100.0,Cybereason,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+20.0,Identiq,Early Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+50.0,Aqua Security,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2024.0,3.0
+65.0,Aqua Security,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+45.0,Otorio,Mature/Public,Security,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,1.0
+100.0,F5,Mature/Public,Security,Seattle,USA,47.6038321,-122.330062,2024.0,4.0
+500.0,CrowdStrike,Mature/Public,Security,San Francisco,USA,37.7792588,-122.4193286,2025.0,2.0
+90.0,IronNet,Mature/Public,Security,Washington DC,USA,38.8950368,-77.0365427,2022.0,2.0
+55.0,Tufin,Mature/Public,Security,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+115.0,Latch,Mature/Public,Security,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+70.0,Aura,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+20.0,Perimeter 81,Growth Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+50.0,Lastline,Growth Stage,Security,Redwood City,USA,37.4863239,-122.232523,2020.0,2.0
+300.0,SecureWorks,Mature/Public,Security,Atlanta,USA,33.7489924,-84.3902644,2023.0,3.0
+19.0,Stytch,Growth Stage,Security,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+100.0,NSO,Early Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+125.0,Malwarebytes,Growth Stage,Security,Santa Clara,USA,37.354107,-121.955238,2022.0,3.0
+450.0,Sophos,Mature/Public,Security,Oxford,UK,51.7520131,-1.2578499,2023.0,1.0
+38.0,Immersive Labs,Growth Stage,Security,Bristol,UK,51.4538022,-2.5972985,2022.0,3.0
+63.0,Veriff,Early Stage,Security,Tallinn,Estonia,59.4372155,24.7453688,2020.0,2.0
+30.0,Ermetic,Growth Stage,Security,Palo Alto,USA,37.4443293,-122.1598465,2023.0,1.0
+16.0,EverC,Unknown,Security,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,3.0
+100.0,Checkmarx,Growth Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+24.0,Truiloo,Growth Stage,Security,Vancouver,Canada,49.2608724,-123.113952,2022.0,3.0
+250.0,Akamai,Mature/Public,Security,Boston,USA,42.3554334,-71.060511,2024.0,4.0
+200.0,Kape Technologies,Mature/Public,Security,London,UK,51.4893335,-0.144055085,2023.0,3.0
+50.0,Dragos,Growth Stage,Security,Baltimore,USA,39.2908816,-76.610759,2023.0,2.0
+50.0,Bishop Fox,Growth Stage,Security,Phoenix,USA,33.4484367,-112.074141,2023.0,2.0
+100.0,Sonatype,Mature/Public,Security,Baltimore,USA,39.2908816,-76.610759,2023.0,2.0
+66.0,Veriff,Growth Stage,Security,Tallinn,Estonia,59.4372155,24.7453688,2023.0,1.0
+60.0,Orca Security,Growth Stage,Security,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,1.0
+400.0,Okta,Mature/Public,Security,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+200.0,Cybereason,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+100.0,Jumio,Mature/Public,Security,Sunnyvale,USA,37.3688301,-122.036349,2023.0,1.0
+20.0,Deep Instinct,Unknown,Security,Tel Aviv,Israel,32.0852997,34.7818064,2025.0,2.0
+13.0,Tor,Unknown,Security,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+180.0,Okta,Mature/Public,Security,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+46.0,Deep Instict,Unknown,Security,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+198.0,Snyk,Late Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,4.0
+110.0,Varonis,Mature/Public,Security,New York City,USA,40.7127281,-74.0060152,2022.0,4.0
+22.0,ActiveFence,Growth Stage,Security,New York City,USA,40.7127281,-74.0060152,2025.0,1.0
+27.0,Transmit Security,Early Stage,Security,Boston,USA,42.3554334,-71.060511,2022.0,3.0
+1400.0,Applied Materials,Unknown,Semiconductor Manufacturing,Santa Clara,USA,37.354107,-121.955238,2025.0,4.0
+22.0,Intel,Mature/Public,Semiconductors,Santa Clara,USA,37.354107,-121.955238,2024.0,2.0
+36.0,SE Ranking,Unknown,SEO Software,Wilmington,USA,39.7459468,-75.546589,2025.0,4.0
+70.0,Bolt.Earth,Unknown,Software Development,Bengaluru,India,12.98815675,77.62260004,2024.0,2.0
+116.0,Sprinklr,Mature/Public,Software Development,New York City,USA,40.7127281,-74.0060152,2024.0,2.0
+30.0,Replit,Unknown,Software Development,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+24.0,Lusha,Unknown,Software Development,Boston,USA,42.3554334,-71.060511,2025.0,4.0
+44.0,Data.ai,Unknown,Software Development,San Francisco,USA,37.7792588,-122.4193286,2024.0,2.0
+31.0,Snorkel AI,Unknown,Software Development,Redwood City,USA,37.4863239,-122.232523,2025.0,3.0
+4500.0,Amdocs,Unknown,Software Development,Ra'anana,Israel,32.1860244,34.8678359,2025.0,3.0
+100.0,Sprinklr,Mature/Public,Software Development,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+2000.0,Synopsys,Unknown,Software Development,Sunnyvale,USA,37.3688301,-122.036349,2025.0,4.0
+200.0,Scale AI,Unknown,Software Development,San Francisco,USA,37.7792588,-122.4193286,2025.0,3.0
+10000.0,Microsoft,Mature/Public,Software Development,Seattle,USA,47.6038321,-122.330062,2023.0,1.0
+39.0,Intercom,Growth Stage,Support,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+500.0,Sprinklr,Mature/Public,Support,New York City,USA,40.7127281,-74.0060152,2025.0,1.0
+350.0,Zendesk,Mature/Public,Support,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+16.0,Help.com,Early Stage,Support,Austin,USA,30.2711286,-97.7436995,2020.0,1.0
+320.0,Zendesk,Mature/Public,Support,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+80.0,Unbabel,Growth Stage,Support,Lisbon,Portugal,38.7077507,-9.1365919,2020.0,2.0
+142.0,Exotel,Growth Stage,Support,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+40.0,Clinc,Growth Stage,Support,Ann Arbor,USA,42.2813722,-83.7484616,2020.0,2.0
+123.0,Five9,Mature/Public,Support,San Ramon,USA,37.77466357,-121.9734961,2025.0,2.0
+190.0,Five9,Mature/Public,Support,San Ramon,USA,37.77466357,-121.9734961,2024.0,3.0
+90.0,Freshworks,Mature/Public,Support,San Mateo,USA,37.496904,-122.3330573,2022.0,4.0
+660.0,Freshworks,Mature/Public,Support,San Mateo,USA,37.496904,-122.3330573,2024.0,4.0
+114.0,Freshworks,Mature/Public,Support,San Mateo,USA,37.496904,-122.3330573,2023.0,1.0
+76.0,Uniphore,Late Stage,Support,Palo Alto,USA,37.4443293,-122.1598465,2023.0,1.0
+24.0,Cogito,Growth Stage,Support,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+193.0,LivePerson,Mature/Public,Support,New York City,USA,40.7127281,-74.0060152,2022.0,3.0
+30.0,Personetics,Mature/Public,Support,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+49.0,Intercom,Growth Stage,Support,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+124.0,Intercom,Growth Stage,Support,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+33.0,Movidesk,Early Stage,Support,Blumenau,Brazil,-26.9195567,-49.0658025,2020.0,2.0
+78.0,Ada,Growth Stage,Support,Toronto,Canada,43.6534817,-79.3839347,2022.0,3.0
+200.0,8x8,Mature/Public,Support,Campbell,USA,37.287167,-121.949959,2022.0,4.0
+120.0,Soluto,Mature/Public,Support,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,3.0
+155.0,8x8,Mature/Public,Support,Campbell,USA,37.287167,-121.949959,2023.0,1.0
+36.0,Ada Support,Growth Stage,Support,Toronto,Canada,43.6534817,-79.3839347,2020.0,2.0
+66.0,Unbabel,Growth Stage,Support,Lisbon,Portugal,38.7077507,-9.1365919,2025.0,1.0
+30.0,Phase,Unknown,The Animation Tool for UI/UX Designers.,Berlin,Germany,52.5170365,13.3888599,2025.0,3.0
+900.0,Cruise,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2023.0,4.0
+200.0,Arrival,Mature/Public,Transportation,London,UK,51.4893335,-0.144055085,2023.0,4.0
+480.0,Arrival,Mature/Public,Transportation,London,UK,51.4893335,-0.144055085,2022.0,3.0
+20.0,Moovit,Mature/Public,Transportation,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,2.0
+800.0,Arrival,Mature/Public,Transportation,London,UK,51.4893335,-0.144055085,2023.0,1.0
+80.0,Lime,Growth Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+23.0,BusBud,Growth Stage,Transportation,Montreal,Canada,45.5031824,-73.5698065,2020.0,2.0
+219.0,TrueCar,Mature/Public,Transportation,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+102.0,TrueCar,Mature/Public,Transportation,Los Angeles,USA,34.0536909,-118.242766,2023.0,2.0
+80.0,Tier Mobility,Growth Stage,Transportation,Berlin,Germany,52.5170365,13.3888599,2023.0,1.0
+80.0,Otonomo,Mature/Public,Transportation,Tel Aviv,Israel,32.0852997,34.7818064,2022.0,4.0
+30.0,Lyft,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2024.0,3.0
+58.0,Canoo,Mature/Public,Transportation,Los Angeles,USA,34.0536909,-118.242766,2022.0,3.0
+206.0,Britishvolt,Unknown,Transportation,London,UK,51.4893335,-0.144055085,2023.0,1.0
+48.0,First Mode,Mature/Public,Transportation,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+60.0,Lyft,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+1072.0,Lyft,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+700.0,Lyft,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+982.0,Lyft,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+70.0,Carwow,Unknown,Transportation,London,UK,51.4893335,-0.144055085,2022.0,4.0
+500.0,Jump,Mature/Public,Transportation,New York City,USA,40.7127281,-74.0060152,2020.0,2.0
+57.0,Divergent 3D,Growth Stage,Transportation,Los Angeles,USA,34.0536909,-118.242766,2020.0,2.0
+750.0,Cazoo,Mature/Public,Transportation,London,UK,51.4893335,-0.144055085,2022.0,2.0
+31.0,REE Automotive,Mature/Public,Transportation,Tel Aviv,Israel,32.0852997,34.7818064,2023.0,1.0
+63.0,Rad Power Bikes,Growth Stage,Transportation,Seattle,USA,47.6038321,-122.330062,2022.0,3.0
+100.0,Rad Power Bikes,Growth Stage,Transportation,Seattle,USA,47.6038321,-122.330062,2022.0,2.0
+16.0,Baton,Early Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+100.0,Ghost Autonomy,Late Stage,Transportation,Mountain View,USA,37.3893889,-122.0832101,2024.0,2.0
+21.0,Ninja Van,Late Stage,Transportation,Singapore,Singapore,1.2899175,103.8519072,2024.0,2.0
+209.0,Waymo,Mature/Public,Transportation,Mountain View,USA,37.3893889,-122.0832101,2023.0,1.0
+15.0,Kodiak Robotics,Early Stage,Transportation,Mountain View,USA,37.3893889,-122.0832101,2020.0,2.0
+300.0,Nuro,Growth Stage,Transportation,Mountain View,USA,37.3893889,-122.0832101,2022.0,4.0
+1000.0,Grab,Mature/Public,Transportation,Singapore,Singapore,1.2899175,103.8519072,2023.0,2.0
+360.0,Grab,Late Stage,Transportation,Singapore,Singapore,1.2899175,103.8519072,2020.0,2.0
+340.0,Nuro,Growth Stage,Transportation,Mountain View,USA,37.3893889,-122.0832101,2023.0,2.0
+46.0,AEye,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+10.0,Ike,Early Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+35.0,Voi,Growth Stage,Transportation,Stockholm,Sweden,59.3251172,18.0710935,2022.0,2.0
+130.0,Voi,Growth Stage,Transportation,Stockholm,Sweden,59.3251172,18.0710935,2022.0,4.0
+120.0,Voi,Growth Stage,Transportation,Stockholm,Sweden,59.3251172,18.0710935,2024.0,1.0
+138.0,Bird,Mature/Public,Transportation,Los Angeles,USA,34.0536909,-118.242766,2022.0,2.0
+400.0,SWVL,Mature/Public,Transportation,Dubai,United Arabian Emirates,25.276987,55.296249,2022.0,2.0
+536.0,Careem,Mature/Public,Transportation,Dubai,United Arabian Emirates,25.276987,55.296249,2020.0,2.0
+40.0,CarTrawler,Mature/Public,Transportation,Dublin,Ireland,53.3493795,-6.2605593,2024.0,3.0
+35.0,Superpedestrian,Growth Stage,Transportation,Boston,USA,42.3554334,-71.060511,2022.0,2.0
+40.0,SpotHero,Growth Stage,Transportation,Chicago,USA,41.8755616,-87.6244212,2020.0,2.0
+100.0,Zoox,Growth Stage,Transportation,Forster City,USA,37.5585465,-122.2710788,2020.0,2.0
+406.0,Bird,Growth Stage,Transportation,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+840.0,Rivian,Mature/Public,Transportation,Detroit,USA,42.3315509,-83.0466403,2022.0,3.0
+40.0,Our Next Energy,Growth Stage,Transportation,Detroit,USA,42.3315509,-83.0466403,2024.0,1.0
+128.0,Our Next Energy,Growth Stage,Transportation,Detroit,USA,42.3315509,-83.0466403,2023.0,4.0
+60.0,Innoviz,Mature/Public,Transportation,Tel Aviv,Israel,32.0852997,34.7818064,2024.0,1.0
+40.0,Rivian,Mature/Public,Transportation,Detroit,USA,42.3315509,-83.0466403,2020.0,2.0
+600.0,Cars24,Late Stage,Transportation,Gurugram,India,28.4646148,77.0299194,2022.0,2.0
+108.0,Turo,Late Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+300.0,Spinny,Late Stage,Transportation,Gurugram,India,28.4646148,77.0299194,2023.0,3.0
+35.0,Ridecell,Growth Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+27.0,Zoomo,Growth Stage,Transportation,Sydney,Australia,-33.8698439,151.2082848,2023.0,2.0
+3700.0,Uber,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+92.0,Scoop,Growth Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+65.0,Zoomo,Growth Stage,Transportation,Sydney,Australia,-33.8698439,151.2082848,2022.0,4.0
+150.0,Turo,Late Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2025.0,2.0
+138.0,LeddarTech,Mature/Public,Transportation,Quebec,Canada,46.81228,-71.21454,2025.0,2.0
+237.0,Motive,Late Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2022.0,4.0
+1300.0,GoTo Group,Mature/Public,Transportation,Jakarta,Indonesia,-6.175247,106.8270488,2022.0,4.0
+360.0,Moladin,Growth Stage,Transportation,Jakarta,Indonesia,-6.175247,106.8270488,2023.0,1.0
+40.0,Wejo,Mature/Public,Transportation,Chester,UK,53.1908873,-2.8908955,2023.0,1.0
+76.0,Clutch,Growth Stage,Transportation,Toronto,Canada,43.6534817,-79.3839347,2022.0,2.0
+150.0,Argo AI,Unknown,Transportation,Pittsburgh,USA,40.4416941,-79.9900861,2022.0,3.0
+550.0,Motional,Unknown,Transportation,Pittsburgh,USA,40.4416941,-79.9900861,2024.0,2.0
+173.0,Argo AI,Unknown,Transportation,Pittsburgh,USA,40.4416941,-79.9900861,2022.0,4.0
+1500.0,Carvana,Mature/Public,Transportation,Phoenix,USA,33.4484367,-112.074141,2022.0,4.0
+2500.0,Carvana,Mature/Public,Transportation,Phoenix,USA,33.4484367,-112.074141,2022.0,2.0
+130.0,Nikola,Mature/Public,Transportation,Phoenix,USA,33.4484367,-112.074141,2024.0,4.0
+750.0,Reef,Unknown,Transportation,Miami,USA,25.7741728,-80.19362,2022.0,2.0
+430.0,Gojek,Late Stage,Transportation,Jakarta,Indonesia,-6.175247,106.8270488,2020.0,2.0
+600.0,Uber,Mature/Public,Transportation,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+40.0,Oye Rickshaw,Unknown,Transportation,New Delhi,India,28.6138954,77.2090057,2022.0,2.0
+111.0,Virgin Hyperloop,Unknown,Transportation,Los Angeles,USA,34.0536909,-118.242766,2022.0,1.0
+100.0,Zipcar,Mature/Public,Transportation,Boston,USA,42.3554334,-71.060511,2020.0,1.0
+200.0,Uber,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2023.0,2.0
+130.0,Bounce,Growth Stage,Transportation,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+200.0,Bounce,Growth Stage,Transportation,Bengaluru,India,12.98815675,77.62260004,2021.0,1.0
+400.0,Lucid Motors,Mature/Public,Transportation,Newark,USA,37.52966,-122.04024,2024.0,2.0
+140.0,Rivian,Mature/Public,Transportation,Los Angeles,USA,34.0536909,-118.242766,2025.0,2.0
+40.0,Bounce,Growth Stage,Transportation,Bengaluru,India,12.98815675,77.62260004,2023.0,1.0
+1300.0,Lucid Motors,Mature/Public,Transportation,Newark,USA,37.52966,-122.04024,2023.0,1.0
+1000.0,Cruise,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2025.0,1.0
+230.0,Embark Trucks,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+180.0,Tier Mobility,Growth Stage,Transportation,Berlin,Germany,52.5170365,13.3888599,2022.0,3.0
+30.0,Waze,Mature/Public,Transportation,Palo Alto,USA,37.4443293,-122.1598465,2020.0,3.0
+23.0,Moovit,Mature/Public,Transportation,Ness Ziona,Israel,31.9208636,34.79413999,2024.0,2.0
+100.0,Getaround,Growth Stage,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+180.0,Ola,Late Stage,Transportation,Bengaluru,India,12.98815675,77.62260004,2024.0,2.0
+1400.0,Ola,Late Stage,Transportation,Bengaluru,India,12.98815675,77.62260004,2020.0,2.0
+147.0,Luminar,Mature/Public,Transportation,Orlando,USA,28.5421109,-81.3790304,2024.0,2.0
+3000.0,Uber,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+75.0,99,Mature/Public,Transportation,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,3.0
+130.0,CarGurus,Mature/Public,Transportation,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+8.0,HopSkipDrive,Unknown,Transportation,Los Angeles,USA,34.0536909,-118.242766,2020.0,1.0
+200.0,Eroad,Unknown,Transportation,Auckland,New Zealand,-36.852095,174.7631803,2023.0,3.0
+350.0,TuSimple,Mature/Public,Transportation,San Diego,USA,32.7174202,-117.162772,2022.0,4.0
+100.0,Phantom Auto,Unknown,Transportation,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+17.0,Nexar,Growth Stage,Transportation,New York City,USA,40.7127281,-74.0060152,2023.0,3.0
+78.0,Spin,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+270.0,Vroom,Mature/Public,Transportation,New York City,USA,40.7127281,-74.0060152,2022.0,2.0
+800.0,Vroom,Mature/Public,Transportation,New York City,USA,40.7127281,-74.0060152,2024.0,1.0
+120.0,Vroom,Mature/Public,Transportation,New York City,USA,40.7127281,-74.0060152,2023.0,2.0
+160.0,Buser,Growth Stage,Transportation,Sao Paulo,Brazil,-23.5506507,-46.6333824,2022.0,4.0
+275.0,Vroom,Mature/Public,Transportation,New York City,USA,40.7127281,-74.0060152,2023.0,1.0
+150.0,Cruise,Mature/Public,Transportation,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+225.0,Uber,Mature/Public,Transportation,Amsterdam,Netherlands,52.3730796,4.8924534,2020.0,2.0
+250.0,TravelTriangle,Growth Stage,Travel,Gurugram,India,28.4646148,77.0299194,2020.0,1.0
+1900.0,Airbnb,Mature/Public,Travel,San Francisco,USA,37.7792588,-122.4193286,2020.0,2.0
+1100.0,Sabre,Mature/Public,Travel,Dallas,USA,32.7762719,-96.7968559,2023.0,2.0
+70.0,PickYourTrail,Early Stage,Travel,Chennai,India,13.0836939,80.270186,2020.0,2.0
+144.0,AvantStay,Mature/Public,Travel,Los Angeles,USA,34.0536909,-118.242766,2022.0,4.0
+164.0,Evolve,Late Stage,Travel,Denver,USA,39.7392364,-104.984862,2023.0,2.0
+38.0,The Guild,Growth Stage,Travel,Austin,USA,30.2711286,-97.7436995,2020.0,1.0
+103.0,Priceline,Mature/Public,Travel,Norwalk,USA,41.1175966,-73.4078968,2024.0,2.0
+85.0,WanderJaunt,Growth Stage,Travel,San Francisco,USA,37.7792588,-122.4193286,2022.0,3.0
+125.0,TripAdvisor,Mature/Public,Travel,Boston,USA,42.3554334,-71.060511,2023.0,4.0
+90.0,GetYourGuide,Late Stage,Travel,Berlin,Germany,52.5170365,13.3888599,2020.0,4.0
+160.0,Kayak / OpenTable,Mature/Public,Travel,Stamford,USA,41.0534302,-73.5387341,2020.0,2.0
+35.0,Frontdesk,Unknown,Travel,Milwaukee,USA,43.0386475,-87.9090751,2020.0,2.0
+221.0,Stay Alfred,Growth Stage,Travel,Spokane,USA,47.6571934,-117.42351,2020.0,2.0
+250.0,Hopper,Unknown,Travel,Montreal,Canada,45.5031824,-73.5698065,2023.0,4.0
+300.0,TripActions,Growth Stage,Travel,Palo Alto,USA,37.4443293,-122.1598465,2020.0,1.0
+400.0,Sonder,Growth Stage,Travel,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
+175.0,Evolve,Late Stage,Travel,Denver,USA,39.7392364,-104.984862,2023.0,3.0
+900.0,TripAdvisor,Mature/Public,Travel,Boston,USA,42.3554334,-71.060511,2020.0,2.0
+130.0,Inspirato,Growth Stage,Travel,Denver,USA,39.7392364,-104.984862,2020.0,1.0
+100.0,Sonder,Mature/Public,Travel,San Francisco,USA,37.7792588,-122.4193286,2023.0,1.0
+1500.0,Expedia,Mature/Public,Travel,Seattle,USA,47.6038321,-122.330062,2024.0,1.0
+106.0,Sonder,Mature/Public,Travel,San Francisco,USA,37.7792588,-122.4193286,2024.0,1.0
+80.0,FabHotels,Growth Stage,Travel,New Delhi,India,28.6138954,77.2090057,2020.0,1.0
+200.0,Pollen,Growth Stage,Travel,London,UK,51.4893335,-0.144055085,2022.0,2.0
+25.0,Glisser,Unknown,Travel,London,UK,51.4893335,-0.144055085,2023.0,1.0
+250.0,Sonder,Mature/Public,Travel,San Francisco,USA,37.7792588,-122.4193286,2022.0,2.0
+216.0,Kiwi.com,Unknown,Travel,Brno,Czech Republic,49.1922443,16.6113382,2024.0,1.0
+320.0,Vacasa,Mature/Public,Travel,Portland,USA,45.5202471,-122.674194,2024.0,1.0
+69.0,Pollen,Growth Stage,Travel,London,UK,51.4893335,-0.144055085,2020.0,2.0
+1300.0,Vacasa,Mature/Public,Travel,Portland,USA,45.5202471,-122.674194,2023.0,1.0
+350.0,MakeMyTrip,Mature/Public,Travel,New Delhi,India,28.6138954,77.2090057,2020.0,3.0
+300.0,Klook,Growth Stage,Travel,Hong Kong,Hong Kong,22.2793278,114.1628131,2020.0,2.0
+109.0,Inspirato,Mature/Public,Travel,Denver,USA,39.7392364,-104.984862,2023.0,1.0
+300.0,Skyscanner,Mature/Public,Travel,Edinburgh,UK,55.9533456,-3.1883749,2020.0,3.0
+15.0,Horizn Studios,Growth Stage,Travel,Berlin,Germany,52.5170365,13.3888599,2020.0,2.0
+30.0,Impala,Growth Stage,Travel,London,UK,51.4893335,-0.144055085,2022.0,2.0
+200.0,Frontdesk,Unknown,Travel,Milwaukee,USA,43.0386475,-87.9090751,2024.0,1.0
+50.0,Remote Year,Growth Stage,Travel,Chicago,USA,41.8755616,-87.6244212,2020.0,1.0
+50.0,Inspirato,Mature/Public,Travel,Denver,USA,39.7392364,-104.984862,2023.0,3.0
+56.0,WanderJaunt,Growth Stage,Travel,San Francisco,USA,37.7792588,-122.4193286,2020.0,1.0
