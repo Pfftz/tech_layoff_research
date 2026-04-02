@@ -2,5 +2,6 @@ version: 2
 
 sources:
   - name: public
+    schema: public
     tables:
       - name: bronze_tech_layoffs

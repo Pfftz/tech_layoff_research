@@ -5,8 +5,8 @@ tech_layoffs_project:
       type: postgres
       host: localhost
       user: admin
-      password: password_rahasia
+      password: admin123
       port: 5432
       dbname: tech_layoffs_dw
-      schema: public # Data Bronze kamu ada di sini
+      schema: public
       threads: 4

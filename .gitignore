@@ -49,6 +49,26 @@ __marimo__/
 *.parquet
 *.feather
 
+# dbt artifacts and dependencies
+dbt_layoffs/logs/
+dbt_layoffs/profiles.yml  # Local profiles should not be committed
+dbt_packages/
+
+# VS Code and IDE
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-*
+
+# Docker and infrastructure
+docker-compose.override.yml
+.docker/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.bak
+
 # Editor/IDE settings
 .vscode/
 .idea/
