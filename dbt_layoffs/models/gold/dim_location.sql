@@ -15,11 +15,5 @@ SELECT
     country AS country,
     continent AS continent,
     latitude,
-    longitude,
-    -- PostGIS geospatial column geometry (Point, 4326)
-    CASE 
-        WHEN longitude IS NOT NULL AND latitude IS NOT NULL 
-        THEN ST_SetSRID(ST_MakePoint(longitude, latitude), 4326)
-        ELSE NULL
-    END AS geom
+    longitude
 FROM src

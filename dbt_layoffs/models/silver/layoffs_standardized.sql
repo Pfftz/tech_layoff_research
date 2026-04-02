@@ -2,39 +2,40 @@
     materialized='table'
 ) }}
 
-WITH staged AS (
-    SELECT * FROM {{ ref('stg_layoffs') }}
+WITH source_data AS (
+    SELECT *
+    FROM {{ source('public', 'bronze_tech_layoffs') }}
 )
 
 SELECT 
-    company_name,
-    location_hq,
-    country,
-    continent,
-    laid_off_count,
-    date_layoffs,
-    layoff_percentage,
-    size_before,
-    size_after,
-    industry,
-    funding_stage,
-    funds_raised_mil,
-    layoff_year,
-    latitude,
-    longitude,
+    "Company" AS company_name,
+    "Location_HQ" AS location_hq,
+    "Country" AS country,
+    "Continent" AS continent,
+    "Laid_Off" AS laid_off_count,
+    "Date_layoffs"::DATE AS date_layoffs,
+    "Percentage" AS layoff_percentage,
+    "Company_Size_before_Layoffs" AS size_before,
+    "Company_Size_after_layoffs" AS size_after,
+    "Industry" AS industry,
+    "Stage" AS funding_stage,
+    "Money_Raised_in__mil" AS funds_raised_mil,
+    "Year" AS layoff_year,
+    "latitude" AS latitude,
+    "longitude" AS longitude,
     -- Industry Normalization
     CASE 
-        WHEN industry ILIKE '%Finance%' OR industry = 'Fintech' THEN 'Fintech'
-        WHEN industry IN ('Transportation', 'Transportion') THEN 'Transportation'
-        ELSE industry
+        WHEN "Industry" ILIKE '%Finance%' OR "Industry" = 'Fintech' THEN 'Fintech'
+        WHEN "Industry" IN ('Transportation', 'Transportion') THEN 'Transportation'
+        ELSE "Industry"
     END AS industry_clean,
     -- Funding Stage Categorization
     CASE
-        WHEN funding_stage IN ('Seed', 'Series A') THEN 'Early Stage'
-        WHEN funding_stage IN ('Series B', 'Series C', 'Series D') THEN 'Growth Stage'
-        WHEN funding_stage IN ('Series E', 'Series F', 'Series G', 'Series H', 'Series I', 'Series J') THEN 'Late Stage'
-        WHEN funding_stage IN ('Post-IPO', 'Acquired', 'Private Equity', 'Subsidiary') THEN 'Mature/Public'
-        WHEN funding_stage IS NULL OR funding_stage = 'Unknown' THEN 'Unknown'
+        WHEN "Stage" IN ('Seed', 'Series A') THEN 'Early Stage'
+        WHEN "Stage" IN ('Series B', 'Series C', 'Series D') THEN 'Growth Stage'
+        WHEN "Stage" IN ('Series E', 'Series F', 'Series G', 'Series H', 'Series I', 'Series J') THEN 'Late Stage'
+        WHEN "Stage" IN ('Post-IPO', 'Acquired', 'Private Equity', 'Subsidiary') THEN 'Mature/Public'
+        WHEN "Stage" IS NULL OR "Stage" = 'Unknown' THEN 'Unknown'
         ELSE 'Other'
     END AS stage_group
-FROM staged
+FROM source_data

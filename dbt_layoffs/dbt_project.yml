@@ -6,9 +6,6 @@ profile: 'tech_layoffs_project'
 
 model-paths: ["models"]
 
-on-run-start:
-  - "CREATE EXTENSION IF NOT EXISTS postgis;"
-
 models:
   dbt_layoffs:
     staging:

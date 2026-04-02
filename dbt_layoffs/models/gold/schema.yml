@@ -79,3 +79,19 @@ models:
         tests:
           - not_null
 
+  - name: v_komparasi_indo_global
+    description: "Agregasi komparasi dampak PHK Indonesia vs Global per tahun, kuartal, dan industri"
+    columns:
+      - name: year
+        tests:
+          - not_null
+      - name: quarter
+        tests:
+          - not_null
+      - name: industry
+        tests:
+          - not_null
+      - name: region_scope
+        tests:
+          - not_null
+
