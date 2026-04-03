@@ -1,0 +1,60 @@
+flowchart TB
+    %% Data Sources
+    csv1[("Cleaned_<br/>tech_layoffs.csv")]
+    csv2[("layoffs_location_<br/>coordinates.csv")]
+
+    %% Ingestion
+    py("PYTHON INGESTION<br/>(Pandas + SQLAlchemy)")
+
+    %% Bronze
+    db_bronze[("BRONZE LAYER<br/>[public.bronze_tech_layoffs]<br/>1.745 baris")]
+
+    %% dbt Transforms
+    subgraph dbt Transformation Engine
+        direction TB
+        dbt_stg("stg_layoffs")
+        dbt_slv("layoffs_standardized<br/>[Normalisasi Industri & Stage]")
+        
+        subgraph Star Schema Models
+            dbt_dim("Dimension Tables<br/>[company, industry,<br/>location, date]")
+            dbt_fact("Fact Table<br/>[fact_layoffs]")
+            dbt_view("v_komparasi_indo_global")
+        end
+    end
+
+    %% Storage layers abstract
+    db_silver[("SILVER LAYER<br/>[public_silver]")]
+    db_gold[("GOLD LAYER<br/>[public_gold]")]
+
+    %% Consumer
+    looker("LOOKER STUDIO BI")
+
+    %% Relations
+    csv1 --> py
+    csv2 --> py
+    py -->|TRUNCATE + INSERT| db_bronze
+    
+    db_bronze -.->|source| dbt_stg
+    dbt_stg -->|materialize: view| dbt_slv
+    dbt_slv -->|load| db_silver
+    
+    db_silver -.-> dbt_dim
+    db_silver -.-> dbt_fact
+    
+    dbt_dim -->|load| db_gold
+    dbt_fact -->|load| db_gold
+    
+    db_gold -.-> dbt_view
+    dbt_view --> looker
+
+    %% Styling
+    style py fill:#3572A5,color:#fff,stroke-width:0px,rx:10
+    style db_bronze fill:#cd7f32,color:#fff,stroke-width:0px
+    style db_silver fill:#c0c0c0,color:#333,stroke-width:0px
+    style db_gold fill:#ffd700,color:#333,stroke-width:0px
+    style dbt_stg fill:#FF694B,color:#fff,stroke-width:0px,rx:5
+    style dbt_slv fill:#FF694B,color:#fff,stroke-width:0px,rx:5
+    style dbt_dim fill:#FF694B,color:#fff,stroke-width:0px,rx:5
+    style dbt_fact fill:#FF694B,color:#fff,stroke-width:0px,rx:5
+    style dbt_view fill:#FF694B,color:#fff,stroke-width:0px,rx:5
+    style looker fill:#4285F4,color:#fff,stroke-width:0px,rx:10

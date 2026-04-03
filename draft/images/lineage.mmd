@@ -1,0 +1,52 @@
+flowchart LR
+    %% Source
+    source[("src: public<br/>bronze_tech_layoffs")]
+    
+    %% Staging
+    stg("stg_layoffs")
+    
+    %% Silver
+    slv("layoffs_standardized")
+    
+    %% Dimensions
+    subgraph Dimensions
+        direction TB
+        dim_comp("dim_company")
+        dim_ind("dim_industry")
+        dim_loc("dim_location")
+        dim_dt("dim_date")
+    end
+    
+    %% Fact and View
+    fact("fact_layoffs")
+    v_comp("v_komparasi_indo_global")
+    
+    %% Relations
+    source -.->|source| stg
+    stg --->|ref| slv
+    
+    slv --->|ref| dim_comp
+    slv --->|ref| dim_ind
+    slv --->|ref| dim_loc
+    slv --->|ref| dim_dt
+    slv --->|ref| fact
+    
+    dim_comp --->|ref| fact
+    dim_ind --->|ref| fact
+    dim_loc --->|ref| fact
+    dim_dt --->|ref| fact
+    
+    fact --->|ref| v_comp
+    
+    %% Styles
+    style source fill:#f2f2f2,color:#333,stroke:#999,stroke-width:2px
+    style stg fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style slv fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style dim_comp fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style dim_ind fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style dim_loc fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style dim_dt fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style fact fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    style v_comp fill:#2ea44f,color:#fff,stroke-width:0px,rx:15
+    
+    linkStyle default stroke:#bbb,stroke-width:2px

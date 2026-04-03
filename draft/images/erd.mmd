@@ -1,0 +1,44 @@
+erDiagram
+    fact_layoffs {
+        int fact_id PK
+        int company_id FK
+        int location_id FK
+        int industry_id FK
+        int date_id FK
+        int laid_off_count "Metrik"
+        float funds_raised_mil "Metrik"
+    }
+    
+    dim_company {
+        int company_id PK
+        varchar company_name
+        varchar stage_group "Standardized: Early/Growth/dll"
+    }
+
+    dim_industry {
+        int industry_id PK
+        varchar industry_name "Standardized: Fintech, dll"
+    }
+
+    dim_location {
+        int location_id PK
+        varchar city
+        varchar country
+        varchar continent
+        decimal latitude
+        decimal longitude
+    }
+
+    dim_date {
+        int date_id PK
+        date full_date
+        int day
+        int month
+        int quarter
+        int year
+    }
+
+    dim_company ||--o{ fact_layoffs : "mengidentifikasi (1.374 unik)"
+    dim_industry ||--o{ fact_layoffs : "mengelompokkan (58 unik)"
+    dim_location ||--o{ fact_layoffs : "berlokasi (184 unit, resolusi lat/long)"
+    dim_date ||--o{ fact_layoffs : "terjadi pada (741 unik)"

@@ -1,0 +1,8 @@
+# Folder ini untuk menyimpan gambar paper
+# Taruh gambar berikut di sini:
+# 1. erd_star_schema.png    - Diagram ERD Star Schema
+# 2. dbt_lineage_dag.png    - Screenshot dbt DAG Lineage
+# 3. tabel_komparasi.png    - Tabel hasil view komparasi
+# 4. arsitektur_medallion.png - Diagram arsitektur pipeline
+# 5. dbt_test_results.png   - Screenshot hasil dbt test 24/24 PASS
+# 6. looker_dashboard.png   - Screenshot Looker Studio dashboard

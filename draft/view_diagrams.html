@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Layoffs DW Architecture Diagrams</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f7f9fa;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            border-bottom: 2px solid #2B579A;
+            padding-bottom: 10px;
+            color: #2B579A;
+            text-align: center;
+        }
+        h2 {
+            margin-top: 50px;
+            color: #444;
+        }
+        .diagram-container {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            margin-bottom: 40px;
+            overflow-x: auto;
+            display: flex;
+            justify-content: center;
+            border: 1px solid #eaeaea;
+        }
+        .instructions {
+            background-color: #e9f5ff;
+            border-left: 5px solid #2ea44f;
+            padding: 20px;
+            border-radius: 4px;
+            margin-bottom: 40px;
+            font-size: 16px;
+        }
+        .mermaid {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Diagram Arsitektur Research Data Warehouse</h1>
+    
+    <div class="instructions">
+        <strong>💡 Instruksi:</strong> Gunakan *Snipping Tool* (Windows + Shift + S) untuk men-*screenshot* masing-masing diagram di bawah ini. Simpan hasilnya di folder <code>draft/images/</code> sesuai dengan nama yang disarankan.
+    </div>
+
+    <!-- 1. Arsitektur Medallion -->
+    <h2>1. Arsitektur Medallion Pipeline (Simpan sebagai: arsitektur_medallion.png)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+            flowchart LR
+                subgraph Ekstraksi Data
+                    direction TB
+                    csv1[(Cleaned_\ntech_layoffs.csv)]
+                    csv2[(layoffs_location_\ncoordinates.csv)]
+                end
+
+                subgraph Python Ingestion Layer
+                    direction TB
+                    py(PythonIngestion.py\nPandas + SQLAlchemy)
+                end
+
+                subgraph PostgreSQL Data Warehouse
+                    direction TB
+                    db_bronze[("public (Bronze)\nRaw Data\n(1.745 baris)")]
+                    db_stage[("public_staging\nViews proxy")]
+                    db_silver[("public_silver\nCleansed Table")]
+                    db_gold[("public_gold\nStar Schema Data Mart")]
+                end
+                
+                subgraph dbt Transfomation Framework
+                    direction TB
+                    dbt_stg[staging (stg_layoffs)]
+                    dbt_slv[silver (layoffs_standardized)]
+                    dbt_gold[gold (Star Model\n+ v_komparasi)]
+                end
+                
+                subgraph Analytical End-User
+                    direction TB
+                    looker(Looker Studio BI)
+                    export[export_buat_temen.py\nto CSV]
+                end
+
+                csv1 -->|load| py
+                csv2 -->|load & join| py
+                py -->|SQLAlchemy\nTRUNCATE + INSERT| db_bronze
+                
+                db_bronze -.->|source()| dbt_stg
+                dbt_stg -->|materialize: view| db_stage
+                
+                db_stage -.-> dbt_slv
+                dbt_slv -.->|Cleansing & Normalization| dbt_slv
+                dbt_slv -->|materialize: table| db_silver
+                
+                db_silver -.-> dbt_gold
+                dbt_gold -.->|Fact & Dimension Mapping| dbt_gold
+                dbt_gold -->|materialize: tables| db_gold
+                
+                db_gold --> export
+                export --> looker
+                
+                style py fill:#3572A5,color:#fff
+                style db_bronze fill:#cd7f32,color:#fff
+                style db_stage fill:#e5e5e5,color:#333
+                style db_silver fill:#c0c0c0,color:#333
+                style db_gold fill:#ffd700,color:#333
+                style dbt_gold fill:#f15a24,color:#fff
+                style dbt_slv fill:#f15a24,color:#fff
+                style dbt_stg fill:#f15a24,color:#fff
+        </div>
+    </div>
+
+    <!-- 2. ERD Star Schema -->
+    <h2>2. Entity Relationship Diagram (ERD) Star Schema (Simpan sebagai: erd_star_schema.png)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+            erDiagram
+                fact_layoffs {
+                    int fact_id PK
+                    int company_id FK
+                    int location_id FK
+                    int industry_id FK
+                    int date_id FK
+                    int laid_off_count "Metrik"
+                    float funds_raised_mil "Metrik"
+                }
+                
+                dim_company {
+                    int company_id PK
+                    varchar company_name
+                    varchar stage_group "Standardized: Early/Growth/dll"
+                }
+
+                dim_industry {
+                    int industry_id PK
+                    varchar industry_name "Standardized: Fintech, dll"
+                }
+
+                dim_location {
+                    int location_id PK
+                    varchar city
+                    varchar country
+                    varchar continent
+                    decimal latitude
+                    decimal longitude
+                }
+
+                dim_date {
+                    int date_id PK
+                    date full_date
+                    int day
+                    int month
+                    int quarter
+                    int year
+                }
+
+                dim_company ||--o{ fact_layoffs : "mengidentifikasi (1.374 unik)"
+                dim_industry ||--o{ fact_layoffs : "mengelompokkan (58 unik)"
+                dim_location ||--o{ fact_layoffs : "berlokasi (184 unit, resolusi lat/long)"
+                dim_date ||--o{ fact_layoffs : "terjadi pada (741 unik)"
+        </div>
+    </div>
+
+    <!-- 3. dbt Lineage -->
+    <h2>3. Diagram Alir DAG dbt Lineage (Simpan sebagai: dbt_lineage_dag.png)</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+            flowchart TD
+                source[("src: bronze_tech_layoffs")]
+                
+                stg["#128065; model: stg_layoffs\n(view)"]
+                slv["#128190; model: layoffs_standardized\n(table)"]
+                
+                dim_comp["#128190; model: dim_company\n(table)"]
+                dim_ind["#128190; model: dim_industry\n(table)"]
+                dim_loc["#128190; model: dim_location\n(table)"]
+                dim_dt["#128190; model: dim_date\n(table)"]
+                
+                fact["#128190; model: fact_layoffs\n(table)"]
+                v_comp["#128190; model: v_komparasi_indo_global\n(table)"]
+                
+                source ---|"{{ source('public', 'bronze_tech_layoffs') }}"| stg
+                stg ---|"{{ ref('stg_layoffs') }}"| slv
+                
+                slv ---|"{{ ref('layoffs_standardized') }}"| dim_comp
+                slv ---|"{{ ref('layoffs_standardized') }}"| dim_ind
+                slv ---|"{{ ref('layoffs_standardized') }}"| dim_loc
+                slv ---|"{{ ref('layoffs_standardized') }}"| dim_dt
+                slv ---|"{{ ref('layoffs_standardized') }}"| fact
+                
+                dim_comp ---|"{{ ref('dim_company') }}"| fact
+                dim_ind ---|"{{ ref('dim_industry') }}"| fact
+                dim_loc ---|"{{ ref('dim_location') }}"| fact
+                dim_dt ---|"{{ ref('dim_date') }}"| fact
+                
+                fact ---|"{{ ref('fact_layoffs') }}"| v_comp
+                
+                style source fill:#1e4881,color:#fff,stroke:#fff
+                style stg fill:#2ea44f,color:#fff,stroke:#fff
+                style slv fill:#2ea44f,color:#fff,stroke:#fff
+                style dim_comp fill:#2ea44f,color:#fff,stroke:#fff
+                style dim_ind fill:#2ea44f,color:#fff,stroke:#fff
+                style dim_loc fill:#2ea44f,color:#fff,stroke:#fff
+                style dim_dt fill:#2ea44f,color:#fff,stroke:#fff
+                style fact fill:#2ea44f,color:#fff,stroke:#fff
+                style v_comp fill:#2ea44f,color:#fff,stroke:#fff
+        </div>
+    </div>
+
+
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        
+        mermaid.initialize({ 
+            startOnLoad: true,
+            theme: 'default',
+            fontFamily: 'Segoe UI',
+            flowchart: {
+                useMaxWidth: false,
+                htmlLabels: true
+            }
+        });
+    </script>
+</body>
+</html>
